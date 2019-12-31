@@ -1,0 +1,1930 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <rdf:Description rdf:about="http://Monument/619">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> trianon théâtre parisien situé boulevard rochechouart dans arrondissement pied butte montmartre </vcard:CATEGORIES>
+    <vcard:NAME>Le Trianon (Paris)</vcard:NAME>
+    <vcard:PRODID>619</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/607">
+    <vcard:CLASS>article</vcard:CLASS>
+    <vcard:CATEGORIES>45xce modèle pertinent cliquez pour voir autres article cite suffisamment sources avril 2010 vous disposez ouvrages articles référence vous connaissez sites qualité traitant thème abordé merci compléter article donnant références utiles vérifiabilité liant section notes références modifier article comment ajouter sources fort nogent fort nogent marne fort français faisant partie fortifications paris malgré selon pratique voulant fort soit baptisé ville défend fort nogent situé fontenay sous bois marne nogent marne héberge aujourd groupement recrutement légion étrangère grle </vcard:CATEGORIES>
+    <vcard:NAME>Fort de Nogent</vcard:NAME>
+    <vcard:PRODID>607</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/469">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour gratte ciel bureaux situé dans quartier affaires défense france précisément puteaux dans quartier défense architecte ieoh ming comme pyramide louvre tour hyatt center chicago avec elle très similaire </vcard:CATEGORIES>
+    <vcard:NAME>Tour EDF</vcard:NAME>
+    <vcard:PRODID>469</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/239">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée pasteur ouvert public 1935 dans institut pasteur docteur roux dans quartier necker arrondissement paris bâtiment classé monuments historiques musée trouve origine dans donation familiale dans années 1930 professeur louis pasteur vallery radot petit fils savant louis pasteur soucieux perpétuer esprit lieux reconstituant appartement dans aménagement initial fait institut pasteur tous meubles objets ayant appartenu grands parents appartements monsieur madame louis pasteur sont remarquablement conservés offrent aussi témoignage historique parfait habitat bourgeois parisien xixe siècle </vcard:CATEGORIES>
+    <vcard:NAME>Musée Pasteur</vcard:NAME>
+    <vcard:PRODID>239</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/227">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> musée bourdelle situé antoine bourdelle dans arrondissement paris installé dans appartements ateliers jardins antoine bourdelle vécut travailla 1885 adresse époque impasse maine lieu transformé musée 1949 première extension réalisée architecte henri gautruche 1961 occasion centenaire naissance antoine bourdelle seconde extension réalisée 1992 confiée architecte christian portzamparc agit musées ville paris gérés depuis janvier 2013 établissement public administratif paris musées </vcard:CATEGORIES>
+    <vcard:NAME>Musée Bourdelle</vcard:NAME>
+    <vcard:PRODID>227</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/197">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> orsel arrondissement paris précédemment nommée acacias vient village orsel créé joseph orsel 1802 terrains avait acquis dépendaient abbaye montmartre 1830 chansonnier poète goguettier émile debraux habitait numéro </vcard:CATEGORIES>
+    <vcard:NAME>Rue d'Orsel</vcard:NAME>
+    <vcard:PRODID>197</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/391">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre pigalle ancienne salle spectacles parisienne située pigalle dans arrondissement inaugurée 1929 disparue 1949 </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre Pigalle</vcard:NAME>
+    <vcard:PRODID>391</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/105">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> odéon voie située dans quartier odéon dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue de l'Odéon</vcard:NAME>
+    <vcard:PRODID>105</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/347">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée pierre marly lunettes lorgnettes situé saint honoré dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Musée Pierre-Marly</vcard:NAME>
+    <vcard:PRODID>347</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/577">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel reine devenu hôtel soissons était palais construit xvie siècle reine catherine médicis dans cœur paris tire comte soissons cousin henri propriétaires fruit long assemblage propriétés porta temps noms hôtel nesles bohème orléans reine fonction nobles familles auxquelles appartint successivement hôtel détruit xviiie siècle sous hôtel reine situait dans quartier halles emplacement approximatif actuelle bourse commerce </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel de Soissons</vcard:NAME>
+    <vcard:PRODID>577</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/335">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> salle traditions garde républicaine ouverte public boulevard henri dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Salle des Traditions de la Garde Républicaine</vcard:NAME>
+    <vcard:PRODID>335</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/589">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> café gare café théâtre parisien situé temple dans arrondissement paris propose places assises capacité parmi salles paris </vcard:CATEGORIES>
+    <vcard:NAME>Café de la Gare</vcard:NAME>
+    <vcard:PRODID>589</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/323">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée galerie seita ouvert public 1979 dans arrondissement paris fermé juin 2000 </vcard:CATEGORIES>
+    <vcard:NAME>Musée-Galerie de la Seita</vcard:NAME>
+    <vcard:PRODID>323</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/553">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> stade jean bouin stade places dans nouvelle configuration situé dans arrondissement paris juste côté parc princes construit 1925 rénové première fois 1970 puis seconde fois 2013 dans configuration actuelle 1975 gymnase adjoint terrain hockey gazon construit 1982 dispose quinze courts tennis dont terre battue stade baptisé après sportif jean bouin historiquement stade casg paris devenu paris jean bouin club résident comportant sections sportives dont section tennis forte plusieurs centaines membres stade jean bouin sert enceinte sportive stade français paris club rugby évoluant dans stade jean bouin dispose également installations pour pratiquer athlétisme accueillait notamment meeting athlétisme paris jusqu début années 1990 perchiste ukrainien soviétique époque sergueï bubka porté record monde marque mythique mètres juillet 1985 jean bouin également utilisé 1983 1993 pour quelques finales casque championnat france football américain 2016 stade accueillera plateforme innovation sportive tremplin cette plateforme comportera notamment incubateur startups juin 2016 maire paris anne hidalgo annonce signature convention occupation reconductible club football star convention signée entre club ville paris propriétaire enceinte conseil départemental seine saint denis </vcard:CATEGORIES>
+    <vcard:NAME>Stade Jean-Bouin (Paris)</vcard:NAME>
+    <vcard:PRODID>553</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/311">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée placard erik satie était situé cortot dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Musée-Placard d'Erik Satie</vcard:NAME>
+    <vcard:PRODID>311</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/565">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre mathurins aussi mathurins théâtre parisien situé mathurins dans arrondissement paris fondé 1897 salle italienne comporte actuellement places </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre des Mathurins</vcard:NAME>
+    <vcard:PRODID>565</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/541">
+    <vcard:CLASS>gare</vcard:CLASS>
+    <vcard:CATEGORIES> gare paris dite aussi gare initialement appelée gare strasbourg grandes gares terminus réseau sncf paris elle trouve dans quartier saint vincent paul dans arrondissement loin gare nord façade ferme perspective nord percé baron haussmann constitué principalement boulevard strasbourg avec plus trente millions voyageurs environ cinquième gare paris activité avait affaiblie création augmenté depuis mise service avec surplus voyageurs grandes lignes gare œuvre architecte françois alexandre duquesney ingénieur pierre cabanel sermet sommet fronton ouest orné statue sculpteur philippe joseph henri lemaire représentant ville strasbourg tandis sculpture figurant verdun œuvre sculpteur henri varenne orne fronton réaménagement important gare accompagné mise service 2007 </vcard:CATEGORIES>
+    <vcard:NAME>Gare de Paris-Est</vcard:NAME>
+    <vcard:PRODID>541</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/161">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> boulevard bastille voie arrondissement paris dans quartier quinze vingts suivant port plaisance paris arsenal port arsenal </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard de la Bastille</vcard:NAME>
+    <vcard:PRODID>161</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/173">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> </vcard:CATEGORIES>
+    <vcard:NAME>Port du Louvre</vcard:NAME>
+    <vcard:PRODID>173</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/185">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> avenue wagram voies radiales étoile elle forme limite entre arrondissement paris partant place charles gaulle elle termine place wagram nord longueur mètres largeur mètres </vcard:CATEGORIES>
+    <vcard:NAME>Avenue de Wagram</vcard:NAME>
+    <vcard:PRODID>185</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/509">
+    <vcard:CLASS>gare</vcard:CLASS>
+    <vcard:CATEGORIES> gare châtelet halles gare ferroviaire française située dans arrondissement paris intégralement souterraine située plein cœur capitale gare voit converger trois lignes réseau express régional france offre correspondance avec cinq lignes métro </vcard:CATEGORIES>
+    <vcard:NAME>Gare de Châtelet - Les Halles</vcard:NAME>
+    <vcard:PRODID>509</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/87">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> montmorency arrondissement paris dans quartier marais </vcard:CATEGORIES>
+    <vcard:NAME>Rue de Montmorency</vcard:NAME>
+    <vcard:PRODID>87</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/99">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> vaugirard traverse arrondissements plus longue voie paris intra muros avec mètres longueur correspondant numéros immeuble </vcard:CATEGORIES>
+    <vcard:NAME>Rue de Vaugirard</vcard:NAME>
+    <vcard:PRODID>99</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/63">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place pyramides place située dans quartier palais royal arrondissement paris coupant rivoli elle trouve hauteur jardin tuileries bout pyramides </vcard:CATEGORIES>
+    <vcard:NAME>Place des Pyramides</vcard:NAME>
+    <vcard:PRODID>63</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/75">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour saint jacques tour isolée dressée milieu premier square parisien porte dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Tour Saint-Jacques</vcard:NAME>
+    <vcard:PRODID>75</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/51">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> place louvre voie arrondissement paris france dans quartier saint germain auxerrois </vcard:CATEGORIES>
+    <vcard:NAME>Place du Louvre</vcard:NAME>
+    <vcard:PRODID>51</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/359">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir pavillon arts pavillon arts ancien espace exposition situé rambuteau dans arrondissement paris fondé 1983 fermé définitivement 2006 </vcard:CATEGORIES>
+    <vcard:NAME>Pavillon des Arts (Paris)</vcard:NAME>
+    <vcard:PRODID>359</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/117">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir boulevard saint michel boulevard saint michel voie paris frontière entre arrondissements étend pont saint michel avenue observatoire appelé familièrement boul mich contraction laïque boulevard michel jadis conféré étudiants anticléricaux </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard Saint-Michel (Paris)</vcard:NAME>
+    <vcard:PRODID>117</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/129">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> dauphine voie située dans quartier monnaie dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue Dauphine</vcard:NAME>
+    <vcard:PRODID>129</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/19">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> parc belleville aussi appelé jardin belleville julien lacroix parcs jardins arrondissement paris superficie situé chemin entre parc buttes chaumont cimetière père lachaise trouve colline belleville dans quartier même culmine mètres terrasse aménagée sommet parc permet panoramique ville paris </vcard:CATEGORIES>
+    <vcard:NAME>Parc de Belleville</vcard:NAME>
+    <vcard:PRODID>19</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/293">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> musée arts forains situé paris extrémité parc bercy présente reconstitution fête foraine traditionnelle européenne caractéristique années 1850 1950 </vcard:CATEGORIES>
+    <vcard:NAME>Musée des Arts forains</vcard:NAME>
+    <vcard:PRODID>293</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/281">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> pavillon arsenal centre information documentation exposition urbanisme architecture paris métropole parisienne situé boulevard morland dans arrondissement paris sein quartier arsenal loin place bastille atelier parisien urbanisme proximité bibliothèque arsenal </vcard:CATEGORIES>
+    <vcard:NAME>Pavillon de l'Arsenal</vcard:NAME>
+    <vcard:PRODID>281</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/237">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée jacquemart andré musée beaux arts arts décoratifs situé boulevard haussmann dans viiie arrondissement paris propriété institut france géré société culturespaces depuis 1996 </vcard:CATEGORIES>
+    <vcard:NAME>Musée Jacquemart-André</vcard:NAME>
+    <vcard:PRODID>237</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/467">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir mogador homonymie théâtre mogador fondé 1913 salle spectacles parisienne située mogador dans arrondissement paris elle peut accueillir 1602 personnes trois étages orchestre corbeille balcon</vcard:CATEGORIES>
+    <vcard:NAME>Théâtre Mogador</vcard:NAME>
+    <vcard:PRODID>467</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/225">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> petit palais construit occasion exposition universelle 1900 architecte charles girault abrite musée beaux arts ville paris situé dans arrondissement paris avenue winston churchill face grand palais agit quatorze musées ville paris gérés depuis janvier 2013 établissement public administratif paris musées </vcard:CATEGORIES>
+    <vcard:NAME>Petit Palais</vcard:NAME>
+    <vcard:PRODID>225</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/479">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour eqho également appelée tour descartes jusqu 2011 gratte ciel bureaux situé dans quartier affaires défense france précisément courbevoie dans quartier défense </vcard:CATEGORIES>
+    <vcard:NAME>Tour Eqho</vcard:NAME>
+    <vcard:PRODID>479</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/213">
+    <vcard:CLASS>avenue</vcard:CLASS>
+    <vcard:CATEGORIES> grand palais monument parisien situé bordure champs élysées face petit palais dont séparé avenue winston churchill dans arrondissement abritent régulièrement salons expositions prestigieuses </vcard:CATEGORIES>
+    <vcard:NAME>Grand Palais (Paris)</vcard:NAME>
+    <vcard:PRODID>213</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/443">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> bastille bastille saint antoine anciennement fort bastide saint anthoine paris forteresse élevée emplacement débouché saint antoine actuelle place bastille paris elle entièrement détruite après prise bastille juillet 1789 </vcard:CATEGORIES>
+    <vcard:NAME>Bastille</vcard:NAME>
+    <vcard:PRODID>443</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/201">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> saint bernard voie arrondissement paris france </vcard:CATEGORIES>
+    <vcard:NAME>Rue Saint-Bernard (Paris)</vcard:NAME>
+    <vcard:PRODID>201</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/455">
+    <vcard:CLASS>avenue</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre champs élysées salle spectacle située avenue montaigne dans arrondissement paris inaugurée avril 1913 théâtre privé propriété caisse dépôts consignations depuis 1970 bâtiment abrite réalité trois salles théâtre champs élysées places comédie champs élysées places studio champs élysées places </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre des Champs-Élysées</vcard:NAME>
+    <vcard:PRODID>455</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/431">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre application plus connu sous bodinière ancienne salle spectacle parisienne située saint lazare dans arrondissement </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre d'Application</vcard:NAME>
+    <vcard:PRODID>431</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/229">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> musée moderne ville paris mamvp situé avenue président wilson dans arrondissement paris présente collection municipale moderne contemporain depuis fauvisme riche plus œuvres principalement axées mouvements artistiques liés capitale plus récemment scène artistique européenne occupe aile palais tokyo aile ouest palais appartient état ailleurs consacrée création contemporaine sous toutes formes musée inauguré 1961 rouvert février 2006 après période rénovation avec exposition consacrée pierre bonnard agit quatorze musées ville paris gérés depuis janvier 2013 établissement public administratif paris musées </vcard:CATEGORIES>
+    <vcard:NAME>Musée d'art moderne de la ville de Paris</vcard:NAME>
+    <vcard:PRODID>229</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/217">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> paume lieu exposition contemporain photographie superficie situé dans jardin tuileries extrémité occidentale terrasse feuillants place concorde paris </vcard:CATEGORIES>
+    <vcard:NAME>Jeu de Paume (centre d'art)</vcard:NAME>
+    <vcard:PRODID>217</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/447">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre folies bergère célèbre salle spectacles parisienne inaugurée 1869 toujours activité jours elle présente comédies musicales spectacles théâtre musical concerts musiques actuelles salle située richer dans arrondissement elle desservie stations métro cadet grands boulevards bâtiment inscrit titre monuments historiques depuis novembre 1990 </vcard:CATEGORIES>
+    <vcard:NAME>Folies Bergère</vcard:NAME>
+    <vcard:PRODID>447</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/205">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée orangerie musée peintures impressionnistes postimpressionnistes situé dans jardin tuileries extrémité occidentale terrasse bord place concorde paris présente œuvres claude monet paul cézanne henri matisse pablo picasso pierre auguste renoir amedeo modigliani douanier rousseau andré derain chaïm soutine marie laurencin maurice utrillo paul gauguin alfred sisley kees dongen actuellement dirigé laurence cars </vcard:CATEGORIES>
+    <vcard:NAME>Musée de l'Orangerie</vcard:NAME>
+    <vcard:PRODID>205</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/459">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> ligne tramway france plus souvent simplement nommée ligne exploitée régie autonome transports parisiens ratp mise service juillet 1997 occasion journées mondiales jeunesse elle relie depuis ouverture prolongement nord ligne novembre 2012 porte versailles pont bezons kilomètres compte vingt quatre stations séparées moyenne mètres desservant quartier affaires défense elle emprunte ligne puteaux issy plaine dite ligne moulineaux ancienne ligne créée 1889 gérée société nationale chemins français sncf </vcard:CATEGORIES>
+    <vcard:NAME>Ligne 2 du tramway d'Île-de-France</vcard:NAME>
+    <vcard:PRODID>459</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/609">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> caveau huchette club jazz français créé maurice goréguès 1948 situé paris huchette plein quartier latin arrondissement lieux mythiques jazz paris </vcard:CATEGORIES>
+    <vcard:NAME>Le Caveau de la Huchette</vcard:NAME>
+    <vcard:PRODID>609</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/175">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> boulevard voltaire fait partie grands axes créés paris baron haussmann sous napoléon abord nommé boulevard prince eugène honneur eugène beauharnais oncle empereur prend boulevard voltaire octobre 1870 relie place république place nation très rapidement boulevard voltaire devenu voie empruntent nombreux défilés partis politiques gauche syndicats mouvements contestation boulevard bordé platanes longueur largeur jusqu montreuil puis delà </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard Voltaire</vcard:NAME>
+    <vcard:PRODID>175</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/187">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> boulevard richard lenoir boulevard arrondissement paris relie place bastille boulevard jules ferry abrite long marché bastille recouvre partie canal saint martin boulevard reprend partie quais valmy précédemment quai louis xviii jemmapes précédemment quai charles conduisaient rampon jusqu place bastille site desservi stations métro bastille bréguet sabin richard lenoir oberkampf </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard Richard-Lenoir</vcard:NAME>
+    <vcard:PRODID>187</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/393">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> salle pleyel manufacture française pianos pleyel était salle concerts symphoniques située dans arrondissement paris inaugurée 1927 elle prenait suite plusieurs salles pleyel créées cours xixe siècle aujourd salle exploitée groupe fimalac programme dorénavant tout type spectacles variétés jazz rock danse exception musique classique style déco elle considérée comme grandes salles françaises siècle comme passage obligé gent musicale internationale elle contribué animation musicale paris accueillant depuis ouverture environ vingt cinq millions spectateurs lors vingt mille concerts plusieurs fois rénovée elle inscrite titre monuments historiques depuis septembre 2002 rouverte septembre 2006 après quatre années interruption elle gérée cité musique 2006 2014 devenue propriété cette dernière juin 2009 accueilli résidence orchestre paris orchestre philharmonique radio france septembre 2006 décembre 2014 depuis janvier 2015 programmation relève philharmonie paris cité musique donné concession salle pour quinze groupe fimalac dans cadre occupation temporaire domaine état avant ouverture auditorium maison radio 2014 puis philharmonie paris 2015 était seule salle parisienne spécifiquement construite pour musique symphonique autres concerts avec orchestre ayant lieu notamment salle olivier messiaen maison radio france salle gaveau plus petites théâtre champs élysées théâtre châtelet salles italienne sise faubourg saint honoré elle desservie station métro ternes </vcard:CATEGORIES>
+    <vcard:NAME>Salle Pleyel</vcard:NAME>
+    <vcard:PRODID>393</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/199">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> quai voltaire situe paris dans arrondissement long mètres situe entre quai malaquais quai anatole france prolonge commence niveau saints pères pont carrousel finit niveau pont royal </vcard:CATEGORIES>
+    <vcard:NAME>Quai Voltaire</vcard:NAME>
+    <vcard:PRODID>199</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/381">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> maison nouveau origine appelée hôtel bing connue comme maison bing bâtiment affecté exposition paris inauguré octobre 1895 </vcard:CATEGORIES>
+    <vcard:NAME>Maison de l'Art nouveau</vcard:NAME>
+    <vcard:PRODID>381</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/325">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée anatomie delmas orfila rouvière plus grand musée anatomie normale france </vcard:CATEGORIES>
+    <vcard:NAME>Musée d'anatomie Delmas-Orfila-Rouvière</vcard:NAME>
+    <vcard:PRODID>325</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/555">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> palais louvre ancien palais royal situé paris rive droite seine entre jardin tuileries église saint germain auxerrois étendant surface bâtie plus palais louvre plus grand palais européen second plus grand bâtiment continent après palais parlement roumain abrite aujourd musée louvre construction louvre indissociable histoire paris elle étend plus bien plan général palais imaginé renaissance charles établit résidence donnant palais statut conservé jusqu règne louis avec millions visiteurs annuels 2011 site culturel plus visité france devant tour eiffel cathédrale notre dame paris étant tête monuments accès libre avec millions visiteurs estimés </vcard:CATEGORIES>
+    <vcard:NAME>Palais du Louvre</vcard:NAME>
+    <vcard:PRODID>555</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/313">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> musée valentin haüy ainsi nommé hommage valentin haüy 1745 1822 appartient association valentin haüy service aveugles malvoyants collections sont dévolues histoire aveugles plus particulièrement leur accès éducation culture citoyenneté </vcard:CATEGORIES>
+    <vcard:NAME>Musée Valentin-Haüy</vcard:NAME>
+    <vcard:PRODID>313</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/567">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel boisgelin également hôtel rochefoucauld doudeauville encore janvry trouve paris dans arrondissement varenne </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel de Boisgelin (Paris)</vcard:NAME>
+    <vcard:PRODID>567</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/301">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES>situé dans arrondissement paris musée arts métiers musée conservatoire national arts métiers labellisé musée france 2002 musée état placé sous tutelle ministère enseignement supérieur recherche fondé 1794 proposition abbé grégoire convention nationale conservatoire arts métiers était origine établissement destiné former techniciens ingénieurs aide démonstrations réalisées partir objets scientifiques techniques cnam aujourd grand établissement enseignement supérieur recherche musée conserve ensemble machines modèles dessins utilisés tout long xixe siècles poursuit enrichissement collections notamment avec mission nationale pour sauvegarde patrimoine scientifique technique contemporain confiée depuis 2003 ministère enseignement supérieur recherche site desservi station métro arts métiers station aménagée 1994 occasion bicentenaire conservatoire comme introduction musée dessinateur belge françois schuiten </vcard:CATEGORIES>
+    <vcard:NAME>Musée des arts et métiers</vcard:NAME>
+    <vcard:PRODID>301</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/531">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> église saint saint gilles église culte catholique située saint denis dans arrondissement paris elle fait objet classement titre monuments historiques depuis 1915 </vcard:CATEGORIES>
+    <vcard:NAME>Église Saint-Leu-Saint-Gilles de Paris</vcard:NAME>
+    <vcard:PRODID>531</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/543">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> maison arrêt santé plus simplement prison santé santé prison située dans quartier montparnasse arrondissement paris santé </vcard:CATEGORIES>
+    <vcard:NAME>Prison de la Santé</vcard:NAME>
+    <vcard:PRODID>543</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/151">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> saussaies voie arrondissement paris jouxte ministère intérieur elle commence place beauvau termine place saussaies </vcard:CATEGORIES>
+    <vcard:NAME>Rue des Saussaies</vcard:NAME>
+    <vcard:PRODID>151</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/163">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> radziwill voie arrondissement paris france </vcard:CATEGORIES>
+    <vcard:NAME>Rue Radziwill</vcard:NAME>
+    <vcard:PRODID>163</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/85">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> bûcherie voie située dans quartier sorbonne arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue de la Bûcherie</vcard:NAME>
+    <vcard:PRODID>85</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/97">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> monsieur prince voie située dans quartier odéon arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue Monsieur-le-Prince</vcard:NAME>
+    <vcard:PRODID>97</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/61">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir wagram homonymie place wagram situe dans arrondissement paris carrefour boulevard malesherbes boulevard pereire avenue wagram elle située extrémité avenue wagram donné 1868 </vcard:CATEGORIES>
+    <vcard:NAME>Place de Wagram</vcard:NAME>
+    <vcard:PRODID>61</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/349">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée minéralogie ouvert public boulevard saint michel dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Musée de minéralogie (Paris)</vcard:NAME>
+    <vcard:PRODID>349</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/579">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> hôpital beaujon hôpital assistance publique hôpitaux paris situé clichy hauts seine </vcard:CATEGORIES>
+    <vcard:NAME>Hôpital Beaujon</vcard:NAME>
+    <vcard:PRODID>579</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/73">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> pont alexandre pont franchissant seine entre arrondissement paris site desservi station métro invalides outre desservi gare invalides ligne </vcard:CATEGORIES>
+    <vcard:NAME>Pont Alexandre-III</vcard:NAME>
+    <vcard:PRODID>73</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/337">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée librairie compagnonnage musée privé situé mabillon dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Musée-librairie du compagnonnage</vcard:NAME>
+    <vcard:PRODID>337</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/9">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> bois boulogne étendue boisée située dans arrondissement paris couvrant superficie hectares dans ouest ville bois boulogne peut être considéré comme poumons capitale deux fois demi plus grand central park york fois plus grand hyde park londres cependant fois plus petit forêt soignes bruxelles occupe seulement moitié surface casa campo madrid bois boulogne occupe partie site ancienne forêt rouvray partie centrale bois contient parc bagatelle ainsi jardin catelan partie nord occupée jardin acclimatation parc attractions célèbre pour ménagerie trouve jardin serres auteuil </vcard:CATEGORIES>
+    <vcard:NAME>Bois de Boulogne</vcard:NAME>
+    <vcard:PRODID>9</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/107">
+    <vcard:CLASS>article</vcard:CLASS>
+    <vcard:CATEGORIES>45xce modèle pertinent cliquez pour voir autres article cite suffisamment sources décembre 2012 vous disposez ouvrages articles référence vous connaissez sites qualité traitant thème abordé merci compléter article donnant références utiles vérifiabilité liant section notes références modifier article comment ajouter sources grands augustins située dans arrondissement paris largeur elle mesure quai grands augustins saint andré arts </vcard:CATEGORIES>
+    <vcard:NAME>Rue des Grands-Augustins</vcard:NAME>
+    <vcard:PRODID>107</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/119">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> boulevard hippolyte marquès anciennement boulevard zone voie arrondissement paris arrondissement gobelins plus précisément dans quartier administratif paris quartier gare cette voie située extérieur boulevard périphérique </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard Hippolyte-Marquès</vcard:NAME>
+    <vcard:PRODID>119</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/29">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> place carrousel place paris située entre ailes denon richelieu palais louvre ouest pyramide elle tient spectacle équitation militaire donné lieu louis juin 1662 occasion naissance fils grand dauphin site desservi station métro palais royal musée louvre </vcard:CATEGORIES>
+    <vcard:NAME>Place du Carrousel</vcard:NAME>
+    <vcard:PRODID>29</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/17">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> jardin catherine labouré espace vert arrondissement paris france </vcard:CATEGORIES>
+    <vcard:NAME>Jardin Catherine-Labouré</vcard:NAME>
+    <vcard:PRODID>17</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/295">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée curie situé cœur campus curie dans quartier grâce arrondissement paris deux panthéon reposent pierre marie curie depuis 1995 constitué espace exposition permanente centre archives propose public découvrir histoire découverte radioactivité premières applications médicales avec radiothérapie musée lieu mémoire connaissances histoire sciences </vcard:CATEGORIES>
+    <vcard:NAME>Musée Curie</vcard:NAME>
+    <vcard:PRODID>295</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/283">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> muséum national histoire naturelle mnhn établissement français recherche diffusion culture scientifique naturaliste premiers établissements mondiaux type avec natural history museum londres doté statut grand établissement placé sous tutelle conjointe ministres enseignement supérieur recherche environnement siège trouve jardin plantes mais autres sites paris france muséum dispose personnel environ membres dont chercheurs depuis réforme 2014 dirigé président assisté directeurs généraux délégués </vcard:CATEGORIES>
+    <vcard:NAME>Muséum national d'histoire naturelle</vcard:NAME>
+    <vcard:PRODID>283</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/271">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> siège unesco maison unesco bâtiment inauguré novembre 1958 place fontenoy dans arrondissement paris pour servir siège organisation nations unies pour éducation science culture unesco aussi lieu culturel peut être visité gratuitement </vcard:CATEGORIES>
+    <vcard:NAME>Maison de l'Unesco</vcard:NAME>
+    <vcard:PRODID>271</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/445">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> opéra garnier palais garnier édifices structurants arrondissement paris paysage capitale française situé place opéra extrémité nord avenue opéra carrefour nombreuses voies accessible métro station opéra ligne gare auber édifice impose comme monument particulièrement représentatif architecture éclectique style historiciste seconde moitié xixe siècle conception architecte charles garnier retenue suite concours construction décidée napoléon dans cadre transformations paris menées préfet haussmann interrompue guerre 1870 reprise début troisième république après destruction incendie opéra peletier 1873 bâtiment inauguré janvier 1875 mahon opéra longtemps appelé opéra paris mais depuis ouverture opéra bastille 1989 désigne seul architecte opéra garnier palais garnier deux opéras sont aujourd regroupés sein établissement public caractère industriel commercial opéra national paris opéra garnier fait objet classement titre monuments historiques depuis octobre 1923 </vcard:CATEGORIES>
+    <vcard:NAME>Opéra Garnier</vcard:NAME>
+    <vcard:PRODID>445</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/215">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel invalides monument parisien dont construction ordonnée louis édit royal février 1670 pour abriter invalides armées aujourd accueille toujours invalides mais également cathédrale saint louis invalides plusieurs musées nécropole militaire avec notamment tombeau napoléon immense complexe architectural conçu libéral bruand jules hardouin mansart chef œuvres plus importants architecture classique française site desservi stations métro invalides varenne tour maubourg </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel des Invalides</vcard:NAME>
+    <vcard:PRODID>215</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/457">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> cathédrale saint alexandre nevsky église orthodoxe russe située paris daru dans arrondissement consacrée 1861 elle premier lieu culte permanent pour communauté russe orthodoxe france elle siège archevêché églises orthodoxes russes europe occidentale dans juridiction patriarcat œcuménique constantinople cathédrale crypte incluse fait objet classement titre monuments historiques depuis 1981 </vcard:CATEGORIES>
+    <vcard:NAME>Cathédrale Saint-Alexandre-Nevsky de Paris</vcard:NAME>
+    <vcard:PRODID>457</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/203">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée homme musée national français installé depuis 1937 dans palais chaillot paris dont vocation présenter genre humain dans diversité anthropologique historique culturelle agit département muséum national histoire naturelle sous tutelle conjointe ministère enseignement supérieur recherche ministère écologie développement durable énergie héritier histoire prestigieuse très fréquenté public mais partie dépouillé collections délaissé autorités siècle musée homme fermé pour rénovation 2009 après travaux ayant nécessité millions euros investissements ministères enseignement supérieur recherche culture réouverture public lieu 2015 après vernissage présence chef état cécile aufaure conservatrice musée évelyne heyer commissaire exposition bruno david président muséum national histoire naturelle </vcard:CATEGORIES>
+    <vcard:NAME>Musée de l'Homme</vcard:NAME>
+    <vcard:PRODID>203</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/421">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> hippodrome longchamp champ courses hippiques situé ouest bois boulogne paris france construit 1857 architecte antoine nicolas bailly domaine abbaye royale longchamp détruite époque révolution française </vcard:CATEGORIES>
+    <vcard:NAME>Hippodrome de Longchamp</vcard:NAME>
+    <vcard:PRODID>421</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/433">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre châtelet théâtre situé place châtelet dans arrondissement paris inauguré 1862 étant sous direction jean choplin depuis 2006 programme aujourd principalement comédies musicales opéras concerts classiques jazz récitals danse accueille également depuis 2002 cérémonie césar cinéma théâtre châtelet membre reseo réseau européen pour sensibilisation opéra danse </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre du Châtelet</vcard:NAME>
+    <vcard:PRODID>433</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/219">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée marmottan devenu musée marmottan monet musée beaux arts situé dans arrondissement paris proximité jardin ranelagh historien paul marmottan hôtel particulier collections renaissance époque napoléonienne académie beaux arts 1932 musée expose notamment collection napoléonienne ainsi œuvres mouvement impressionniste dont plus grande collection monde œuvres claude monet site desservi station métro muette </vcard:CATEGORIES>
+    <vcard:NAME>Musée Marmottan Monet</vcard:NAME>
+    <vcard:PRODID>219</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/449">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> église madeleine situe place madeleine dans arrondissement paris elle constitue parfaite illustration style architectural néoclassique avec portique octostyle construction étalée raison troubles politiques france xviiie siècle début xixe siècle changements politiques époque firent modifier plusieurs reprises destination plans conçu napoléon comme temple maçonnique temple raison dédié gloire grande armée 1806 bâtiment faillit être transformé 1837 gare ferroviaire première paris avant devenir église 1845 sous fronton inscription latin invocat magdalenæ signifie dieu tout puissant très grand sous invocation sainte marie madeleine édifice longueur mètres largeur mètres hauteur mètres ceinturé colonnes corinthiennes site desservi station métro madeleine </vcard:CATEGORIES>
+    <vcard:NAME>Église de la Madeleine</vcard:NAME>
+    <vcard:PRODID>449</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/207">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée national arts asiatiques guimet abrégé mnaag appelé encore couramment musée guimet musée asiatique situé paris place iéna dans arrondissement conçu lors rénovation 1997 comme grand centre connaissance civilisations asiatiques cœur europe présente aujourd regroupée dans espace leur dédié plus complètes collections arts asiatiques monde site desservi station métro iéna </vcard:CATEGORIES>
+    <vcard:NAME>Musée national des arts asiatiques - Guimet</vcard:NAME>
+    <vcard:PRODID>207</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/425">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> gare pont garigliano gare ferroviaire française ligne invalides versailles rive gauche située dans arrondissement paris elle ouverte 1889 compagnie chemins ouest ligne moulineaux sous javel elle connaît plusieurs changements cours existence elle prend début siècle boulevard victor puis boulevard victor pont garigliano décembre 2006 lors mise service ligne tramway france dont elle devient terminus occidental elle ensuite nouveau renommée début 2010 pour devenir pont garigliano enfin pont garigliano hôpital européen georges pompidou 2012 </vcard:CATEGORIES>
+    <vcard:NAME>Gare du Pont du Garigliano</vcard:NAME>
+    <vcard:PRODID>425</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/437">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> salle ventadour théâtre ventadour ancienne salle théâtre située dans arrondissement paris entre rues méhul monsigny marsollier dalayrac reconvertie aujourd immeuble accueillant divers services sociaux banque france dans cette salle représentée pour première fois blas victor hugo novembre 1838 compagnie théâtre renaissance </vcard:CATEGORIES>
+    <vcard:NAME>Salle Ventadour</vcard:NAME>
+    <vcard:PRODID>437</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/153">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> site desservi stations métro opéra madeleine boulevard madeleine grands boulevards paris fait partie chaîne constituée ouest boulevards madeleine capucines italiens montmartre </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard de la Madeleine</vcard:NAME>
+    <vcard:PRODID>153</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/383">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> mona bismarck american center pour vocation proposer public grande variété expériences artistiques culturelles américaines travers choix programmation innovants cœur paris nouveau mona bismarck american center lancé 2011 appuyant bases ancienne mona bismarck foundation fondation devenue active 1986 suite décès fondatrice mécène philanthrope américaine comtesse mona bismarck passionnée culture mona bismarck effectué nombreux dons dans dont notamment bismarck sapphire necklace afin pérenniser œuvre elle légua hôtel particulier ainsi majorité biens fondation mona bismarck dans renforcer toujours plus amitié entente franco américaine travers culture demeure encore jour mission principale centre </vcard:CATEGORIES>
+    <vcard:NAME>Mona Bismarck American Center</vcard:NAME>
+    <vcard:PRODID>383</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/165">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> saint lazare voie arrondissements paris elle commence bourdaloue notre dame lorette termine place gabriel péri rome </vcard:CATEGORIES>
+    <vcard:NAME>Rue Saint-Lazare (Paris)</vcard:NAME>
+    <vcard:PRODID>165</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/371">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> maison mutualité aussi surnommée mutualité mutu salle polyvalente située paris saint victor dans arrondissement </vcard:CATEGORIES>
+    <vcard:NAME>Maison de la Mutualité</vcard:NAME>
+    <vcard:PRODID>371</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/177">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> pont national pont routier ferroviaire franchissant seine </vcard:CATEGORIES>
+    <vcard:NAME>Pont National (Paris)</vcard:NAME>
+    <vcard:PRODID>177</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/189">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> pont neuilly pont routier ferroviaire ligne métro traverse seine entre neuilly seine rive droite courbevoie puteaux rive gauche dans département français hauts seine face quartier affaires défense dans alignement historique parisien </vcard:CATEGORIES>
+    <vcard:NAME>Pont de Neuilly</vcard:NAME>
+    <vcard:PRODID>189</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/5">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> parc clichy batignolles martin luther king espace vert public hectares depuis avril 2014 cours aménagement hectares terme paris dans quartier batignolles arrondissement loin square batignolles partie centrale réaménagement anciens terrains sncf ancienne gare batignolles porte pasteur militant américain pour droits civiques martin luther king </vcard:CATEGORIES>
+    <vcard:NAME>Parc Clichy-Batignolles - Martin Luther King</vcard:NAME>
+    <vcard:PRODID>5</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/303">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée arts décoratifs paris musée parisien pour objectif valorisation beaux arts appliqués développement liens entre industrie culture création production conserve plus importantes collections arts décoratifs monde musée poursuit objectif présidé fondation entretenir france culture arts poursuivent réalisation beau dans utile musée situé rivoli inauguré 1905 dans aile marsan palais louvre suite aménagements dirigés architecte gaston redon fait partie ensemble plus vaste union centrale arts décoratifs ucad association privée fondée 1882 </vcard:CATEGORIES>
+    <vcard:NAME>Musée des arts décoratifs de Paris</vcard:NAME>
+    <vcard:PRODID>303</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/533">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> galeries lafayette haussmann sont grand magasin paris situé boulevard haussmann dans neuvième arrondissement 2014 magasin réalisé milliard euros chiffre affaires devançant harrod londres bloomingdale york isetan tokyo appartient branche galeries lafayette nouvelles galeries groupe galeries lafayette cours année 2009 galeries lafayette reçu environ millions visiteurs soit clients quotidiens surface vente site desservi stations métro chaussée antin fayette havre caumartin réseau express régional france station auber réseau express régional france ligne france dessert également galeries lafayette haussmann </vcard:CATEGORIES>
+    <vcard:NAME>Galeries Lafayette Haussmann</vcard:NAME>
+    <vcard:PRODID>533</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/545">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> hôpital pitié salpêtrière hôpital assistance publique hôpitaux paris situé boulevard hôpital dans arrondissement paris site desservi stations métro saint marcel chevaleret </vcard:CATEGORIES>
+    <vcard:NAME>Hôpital de la Salpêtrière</vcard:NAME>
+    <vcard:PRODID>545</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/521">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour sans fins projet gratte ciel français situé dans quartier affaires défense près paris dont construction annulée 2000 </vcard:CATEGORIES>
+    <vcard:NAME>Tour sans fins</vcard:NAME>
+    <vcard:PRODID>521</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/141">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> harpe voie située dans quartier sorbonne arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue de la Harpe</vcard:NAME>
+    <vcard:PRODID>141</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/395">
+    <vcard:CLASS>article</vcard:CLASS>
+    <vcard:CATEGORIES>45xce modèle pertinent cliquez pour voir autres article cite suffisamment sources novembre 2011 vous disposez ouvrages articles référence vous connaissez sites qualité traitant thème abordé merci compléter article donnant références utiles vérifiabilité liant section notes références modifier article comment ajouter sources tour generali projet gratte ciel bureaux devait situer dans quartier affaires défense courbevoie hauts seine france projet abandonné 2011 direction italienne assureur motivé décision </vcard:CATEGORIES>
+    <vcard:NAME>Tour Generali</vcard:NAME>
+    <vcard:PRODID>395</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/339">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> </vcard:CATEGORIES>
+    <vcard:NAME>Musée national des arts et traditions populaires</vcard:NAME>
+    <vcard:PRODID>339</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/327">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée histoire contemporaine situé depuis 1973 dans hôtel invalides paris musée pour mission conserver ressources iconographiques bibliothèque documentation internationale contemporaine enrichir acquisitions pris actuel 1987 musée publie également ouvrages historiques période contemporaine disposant murs suffisants fonds pour vocation être montré occasion expositions temporaires </vcard:CATEGORIES>
+    <vcard:NAME>Musée d'Histoire contemporaine</vcard:NAME>
+    <vcard:PRODID>327</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/557">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> maison jeanneret villa jeanneret raaf construite entre 1923 1925 corbusier pierre jeanneret elle considérée aujourd comme exemple prestigieux architecture moderne france dans lequel trouve pour première fois expression architecturale cinq points pour architecture nouvelle également pour corbusier occasion développer avec villa idée promenade architecturale marchant déplaçant voit développer ordonnances architecture maison jeanneret jumelée avec maison roche mais contrairement cette dernière elle visite puisqu elle abrite aujourd fondation corbusier deux bâtisses sont classées monument historique depuis 1996 site aussi inscrit avec autres œuvres architecturales corbusier patrimoine mondial unesco 2016 doit être confondu avec villa jeanneret perret dite aussi maison blanche située chaux fonds suisse </vcard:CATEGORIES>
+    <vcard:NAME>Maison Jeanneret</vcard:NAME>
+    <vcard:PRODID>557</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/83">
+    <vcard:CLASS>article</vcard:CLASS>
+    <vcard:CATEGORIES>45xce modèle pertinent cliquez pour voir autres article cite suffisamment sources avril 2012 vous disposez ouvrages articles référence vous connaissez sites qualité traitant thème abordé merci compléter article donnant références utiles vérifiabilité liant section notes références modifier article comment ajouter sources argenteuil voie arrondissement paris france </vcard:CATEGORIES>
+    <vcard:NAME>Rue d'Argenteuil</vcard:NAME>
+    <vcard:PRODID>83</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/315">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> palais porte dorée édifice situé porte dorée dans arrondissement paris jusqu 2003 abrita successivement dans murs ancien musée colonies puis celui france outre enfin musée arts africains océaniens depuis octobre 2007 accueille musée histoire immigration </vcard:CATEGORIES>
+    <vcard:NAME>Palais de la Porte Dorée</vcard:NAME>
+    <vcard:PRODID>315</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/569">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> église sainte jeanne chantal placée sous invocation sainte jeanne chantal église située paris dans arrondissement place porte saint cloud porte saint cloud </vcard:CATEGORIES>
+    <vcard:NAME>Église Sainte-Jeanne-de-Chantal</vcard:NAME>
+    <vcard:PRODID>569</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/95">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> pletzl פלעצל petite place yiddish place saint paul place juifs opposition grande place celle vosges quartier juif plus célèbre paris datant xiiie siècle situé dans arrondissement paris connu renouveau important xixe dans première moitié siècle jusqu seconde guerre mondiale accueillit dizaines milliers juifs ashkénazes yiddishophones europe fuyant persécutions pogroms comptait alors nombreux magasins commerces alimentaires librairies restaurants typiques toute animation faisant ressembler petit shtetl situé plein paris </vcard:CATEGORIES>
+    <vcard:NAME>Pletzl</vcard:NAME>
+    <vcard:PRODID>95</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/7">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> parc andré citroën jardin public situé rive gauche seine site ancienne usine citroën dans quartier javel arrondissement paris créé début 1986 inauguré 1992 bordé logements bâtiments tertiaires </vcard:CATEGORIES>
+    <vcard:NAME>Parc André-Citroën</vcard:NAME>
+    <vcard:PRODID>7</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/109">
+    <vcard:CLASS>avenue</vcard:CLASS>
+    <vcard:CATEGORIES> avenue malakoff voie arrondissement paris partant avenue foch arrivant boulevard amiral bruix avenue grande armée </vcard:CATEGORIES>
+    <vcard:NAME>Avenue de Malakoff</vcard:NAME>
+    <vcard:PRODID>109</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/27">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> existe officiellement aucune place saint paul paris aujourd pourtant donne parfois espace dont point central constitué bouches entrée métro saint paul trouvent terre plein séparant saint antoine rivoli place station métro tirent leur église saint paul saint louis voisine espace aussi appelé tout simplement métro saint paul site desservi station métro saint paul </vcard:CATEGORIES>
+    <vcard:NAME>Place Saint-Paul (Paris)</vcard:NAME>
+    <vcard:PRODID>27</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/39">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir bateau lavoir bateau lavoir cité artistes située dans arrondissement paris france etablie butte montmartre dans quartier clignancourt elle connue pour avoir depuis 1904 lieu résidence réunion nombreux artistes peintres mais aussi gens lettres gens théâtre marchands incendie ayant gravement endommagée 1970 reste alors façade elle entièrement reconstruite 1978 comporte toujours vingt cinq ateliers artistes visibles depuis jardin burq situé arrière bâtiment contribuent maintenir notoriété lieu </vcard:CATEGORIES>
+    <vcard:NAME>Bateau-Lavoir</vcard:NAME>
+    <vcard:PRODID>39</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/15">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> square montholon square arrondissement paris france </vcard:CATEGORIES>
+    <vcard:NAME>Square Montholon</vcard:NAME>
+    <vcard:PRODID>15</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/273">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> institut monde arabe institut culturel parisien consacré monde arabe situé cœur paris historique dans arrondissement place mohammed entre quai saint bernard campus jussieu édifice conçu collectif architectes jean nouvel architecture studio tenté synthèse entre culture arabe culture occidentale construction bâtiment bien étant inscrite dans politique grands travaux voulus françois mitterrand décidée sous septennat valéry giscard estaing améliorer relations diplomatiques entre france pays arabes inauguré novembre 1987 président mitterrand institut membre forum instituts culturels étrangers paris échanges productions radiophoniques epra parfois surnommé beaubourg arabe référence centre beaubourg 2012 ouvert antenne tourcoing </vcard:CATEGORIES>
+    <vcard:NAME>Institut du monde arabe</vcard:NAME>
+    <vcard:PRODID>273</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/261">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée arménien france musée situé paris france consacré histoire culture arménienne retraçant histoire arménie regroupe près œuvres dont certaines furent exposées musée louvre </vcard:CATEGORIES>
+    <vcard:NAME>Musée arménien de France</vcard:NAME>
+    <vcard:PRODID>261</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/491">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> monfort précédemment théâtre silvia monfort établissement culturel ville paris situé dans parc georges brassens brancion dans arrondissement paris depuis septembre 2009 sous direction laurence magalhaes stéphane ricordel fondateurs compagnie arts sauts consacré création contemporaine découverte compagnies émergentes </vcard:CATEGORIES>
+    <vcard:NAME>Le Monfort</vcard:NAME>
+    <vcard:PRODID>491</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/423">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> stade pierre coubertin portant pierre coubertin salle omnisports située dans arrondissement paris site desservi station métro porte saint cloud </vcard:CATEGORIES>
+    <vcard:NAME>Stade Pierre-de-Coubertin</vcard:NAME>
+    <vcard:PRODID>423</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/435">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> chapelle expiatoire chapelle arrondissement paris située pasquier construite dans square louis emplacement ancien cimetière madeleine avaient inhumés corps louis marie antoinette avant leur transfert basilique saint denis janvier 1815 certains gardes suisses tués lors prise palais tuileries août 1792 sont aussi inhumés cette chapelle fait objet classement titre monuments historiques depuis juillet 1914 </vcard:CATEGORIES>
+    <vcard:NAME>Chapelle expiatoire</vcard:NAME>
+    <vcard:PRODID>435</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/71">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> pont neuf malgré plus ancien pont existant paris traverse seine pointe ouest cité construit xvie siècle terminé début xviie doit nouveauté constituait époque pont dénué habitations pourvu trottoirs protégeant piétons boue chevaux aussi tout premier pont pierre paris traverser entièrement seine trouve écrit pont neuf mais aussi pont neuf monument fait objet classement titre monuments historiques depuis 1889 1991 inscrit patrimoine mondial unesco avec ensemble quais seine paris site desservi station métro pont neuf </vcard:CATEGORIES>
+    <vcard:NAME>Pont Neuf</vcard:NAME>
+    <vcard:PRODID>71</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/411">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> église écossaise scots kirk située bayard paris arrondissement église presbytérienne liée église écosse cultes anglais chaque semaine dimanche pasteur cowie depuis 2011 </vcard:CATEGORIES>
+    <vcard:NAME>Église écossaise de Paris</vcard:NAME>
+    <vcard:PRODID>411</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/297">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> bibliothèque nationale france ainsi dénommée depuis 1994 bibliothèque nationale république française inaugurée sous cette nouvelle appellation mars 1995 président république françois mitterrand héritière collections royales constituées depuis moyen première institution chargée collecte dépôt légal partir 1537 elle plus importante bibliothèque france plus importantes monde elle statut établissement public caractère administratif activités sont réparties sept sites dont principal bibliothèque site françois mitterrand tolbiac située dans arrondissement paris rive gauche seine site historique datant xviie siècle occupe désormais îlot entier trouve dans arrondissement paris lieu palais mazarin hébergeait également bourse paris xviiie siècle coutume nommer quadrilatère richelieu entrée principale bibliothèque nationale france comporte quatorze départements plusieurs collections principalement conservées quatre sites parisiens incluant département monnaies médailles antiques héritier cabinet médailles ensemble collections conserve environ millions documents imprimés spécialisés hors paris elle comprend maison jean vilar avignon deux centres techniques conservation bussy saint georges sablé sarthe elle également plus plus connue pour bibliothèque numérique gallica permet consulter reproduction plus documents sous format texte image sonore collections accroissent environ documents hors fichiers internet dépôt légal acquisition dont environ volumes élèvent nombre total millions livres imprimés millions tolbiac dont près incunables outre livres imprimés collections comprennent plusieurs millions périodiques comptés pour titres environ manuscrits dont velins manuscrits enluminés médiévaux fait plus grande bibliothèque monde dans domaine cartes estampes photographies partitions monnaies médailles documents sonores vidéos multimédias numériques informatiques milliards adresses objets objets décors costumes grande partie références consultable ligne catalogue général catalogues spécialisés site françois mitterrand accueille également inathèque france chargée dépôt légal radio télévision comporte aussi fonds cinéma mission collecte archivage entretien conservation restauration particulier tout publie édite france mais aussi activités recherche diffusion connaissance grâce notamment organisation régulière expositions destination grand public multiples manifestations culturelles conférences colloques concerts dans locaux site internet dénomination bibliothèque nationale france celle établissement public regroupe sept sites appellation officielle site tolbiac site françois mitterrand elle donnée demande président république jacques chirac toujours celle employée dans langage courant certains disaient parfois moins jusqu 1999 très grande bibliothèque </vcard:CATEGORIES>
+    <vcard:NAME>Bibliothèque nationale de France</vcard:NAME>
+    <vcard:PRODID>297</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/285">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> galerie paléontologie anatomie comparée établissements muséum national histoire naturelle français elle trouve dans jardin plantes paris début buffon côté gare austerlitz bâtiment conçu entre 1892 1898 architecte ferdinand dutert deux étages superficie environ institut paléontologie extrémité ouest galerie buffon construit dans années 1930 mais dans style assorti reste galerie construite pierre métal longue près façades extérieures sont ornées nombreuses sculptures inspiration naturaliste grandes baies vitrées laissent passer lumière </vcard:CATEGORIES>
+    <vcard:NAME>Galerie de paléontologie et d'anatomie comparée du Muséum national d'histoire naturelle</vcard:NAME>
+    <vcard:PRODID>285</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/209">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée picasso musée national français consacré œuvre pablo picasso ainsi artistes furent liés </vcard:CATEGORIES>
+    <vcard:NAME>Musée Picasso (Paris)</vcard:NAME>
+    <vcard:PRODID>209</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/427">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> tramway funiculaire belleville ligne tramway traction câble aujourd disparue reliait 1891 1924 place république église saint jean baptiste belleville colline belleville dans parisien système hybride entre tramway funiculaire similaire célèbre cable francisco service août 1873 depuis 1935 remplacé parcours ligne métro paris </vcard:CATEGORIES>
+    <vcard:NAME>Tramway funiculaire de Belleville</vcard:NAME>
+    <vcard:PRODID>427</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/439">
+    <vcard:CLASS>gare</vcard:CLASS>
+    <vcard:CATEGORIES> gare rosa parks auparavant nommée évangile raison situation proximité évangile gare française nord parisien ligne limite arrondissements étude depuis années 1990 mise service décembre 2015 elle trouve côté gare ceinture était petite gare voyageurs située ligne petite ceinture </vcard:CATEGORIES>
+    <vcard:NAME>Gare Rosa Parks</vcard:NAME>
+    <vcard:PRODID>439</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/403">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> église américaine paris anglais american church paris première église américaine établie dehors états unis elle créée 1814 édifice actuel situe quai orsay dans arrondissement construit 1931 </vcard:CATEGORIES>
+    <vcard:NAME>Église américaine de Paris</vcard:NAME>
+    <vcard:PRODID>403</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/415">
+    <vcard:CLASS>avenue</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre marigny situé dans carré marigny jardins champs élysées angle avenue champs élysées avenue marigny dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre Marigny</vcard:NAME>
+    <vcard:PRODID>415</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/361">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> palais congrès paris dans arrondissement lieu affaires congrès spectacles capitale installé porte maillot bordure paris bois boulogne neuilly seine palais congrès fait partie même ensemble hôtel gratte ciel concorde fayette aujourd nommé hyatt regency paris étoile palais congrès abord comme indique important centre affaires avec salons boutiques restaurants salles réunions surfaces exposition pour adresse place porte maillot paris17e </vcard:CATEGORIES>
+    <vcard:NAME>Palais des congrès de Paris</vcard:NAME>
+    <vcard:PRODID>361</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/591">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> cigalefichier cigale paris cigale 2008 géolocalisation carte arrondissement paris géolocalisation carte paris géolocalisation carte france cigale salle spectacle parisienne site desservi stations métro anvers pigalle </vcard:CATEGORIES>
+    <vcard:NAME>La Cigale</vcard:NAME>
+    <vcard:PRODID>591</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/131">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> avenue charles gaulle traverse ville neuilly seine correspond tronçon route nationale historique jusqu 1971 encore localement usage courant avenue neuilly rare voie portant commune laquelle elle trouve </vcard:CATEGORIES>
+    <vcard:NAME>Avenue Charles-de-Gaulle (Neuilly-sur-Seine)</vcard:NAME>
+    <vcard:PRODID>131</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/143">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> paix napoléon arrondissements paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue de la Paix (Paris)</vcard:NAME>
+    <vcard:PRODID>143</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/155">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> marcadet arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue Marcadet</vcard:NAME>
+    <vcard:PRODID>155</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/167">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> avenue hoche voie arrondissement paris elle commence courcelles place général brocard termine place charles gaulle </vcard:CATEGORIES>
+    <vcard:NAME>Avenue Hoche</vcard:NAME>
+    <vcard:PRODID>167</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/179">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir homonymie paris située dans arrondissement longue mètres elle part quais voltaire anatole france termine sèvres également station métro dont sortie située commence boulevard raspail ligne intersection avec </vcard:CATEGORIES>
+    <vcard:NAME>Rue du Bac</vcard:NAME>
+    <vcard:PRODID>179</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/3">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> parc buttes chaumont jardin public situé dans nord paris france dans arrondissement ville avec près parc plus grands espaces verts paris inauguré 1867 pendant dernières années règne napoléon agit réalisation ingénieur jean charles alphand jardin anglaise imite paysage montagne rochers falaises torrents cascades grotte alpages belvédères </vcard:CATEGORIES>
+    <vcard:NAME>Parc des Buttes-Chaumont</vcard:NAME>
+    <vcard:PRODID>3</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/511">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel lutetia hôtel luxe arrondissement paris situé boulevard raspail angle sèvres dans quartier notre dame champs propriété groupe israélien alrov depuis août 2010 géré marque concorde hotels resorts </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel Lutetia</vcard:NAME>
+    <vcard:PRODID>511</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/523">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> bibliothèque littéraire jacques doucet bljd bibliothèque patrimoniale littérature française symbolisme jours située place panthéon dans arrondissement paris bibliothèque publique recherche dont accès fait après demande autorisation auprès personnel elle possède deux salles consultation dans locaux place panthéon autre dans ceux réserve bibliothèque sainte geneviève </vcard:CATEGORIES>
+    <vcard:NAME>Bibliothèque littéraire Jacques-Doucet</vcard:NAME>
+    <vcard:PRODID>523</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/397">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> base aérienne brétigny orge colonel brunet ancienne base aérienne armée française située paris commune brétigny orge dans département essonne </vcard:CATEGORIES>
+    <vcard:NAME>Base aérienne 217 Brétigny-sur-Orge</vcard:NAME>
+    <vcard:PRODID>397</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/385">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> mémorial shoah lieu mémoire génocide juifs france réunit dans même lieu musée consacré histoire juive durant seconde guerre mondiale dont central enseignement shoah musée ouvert portes janvier 2005 dans quartier marais arrondissement paris plusieurs lieux mémoire tombeau martyr juif inconnu dans crypte noms mémorial enfants justes centre documentation juive contemporaine cdjc face ancien camp internement muette drancy antenne mémorial shoah ouverte 2012 </vcard:CATEGORIES>
+    <vcard:NAME>Mémorial de la Shoah</vcard:NAME>
+    <vcard:PRODID>385</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/373">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> palais tuileries ancien palais parisien aujourd détruit dont construction commença 1564 sous impulsion catherine médicis emplacement occupé auparavant trois fabriques tuiles établies 1372 côté quinze vingts loin vieux louvre agrandi sous règnes successifs unifié avec palais louvre disposait immense façade mètres long pour palais disparu environ mètres compte pavillons flore marsan subsistent était point focal grand historique paris perspective enfilade avenue champs élysées place concorde jardin tuileries conçu partir palais résidence royale paris nombreux souverains henri louis louis louis mais aussi louis xviii charles puis louis philippe impériale napoléon puis napoléon entretemps aussi siège première république consulat rôle siège officiel pouvoir français interrompu destruction incendie volontaire 1871 allumé communards jules henri marius bergeret victor bénot étienne boudin ruines palais tuileries furent abattues 1883 troisième république étant alors installée dans palais élysée </vcard:CATEGORIES>
+    <vcard:NAME>Palais des Tuileries</vcard:NAME>
+    <vcard:PRODID>373</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/13">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> parc monceau parfois appelé parc monceau jardin agrément situé dans quartier europe arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Parc Monceau</vcard:NAME>
+    <vcard:PRODID>13</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/329">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée magie musée situé saint paul dans quartier marais paris </vcard:CATEGORIES>
+    <vcard:NAME>Musée de la Magie</vcard:NAME>
+    <vcard:PRODID>329</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/559">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> stade paris stade football situé saint ouen inauguré 1909 club parisien star résident depuis 1909 souvent appelé stade bauer référence médecin résistant même docteur jean claude bauer 1910 1942 médecin communiste arrêté police française puis fusillé aussi donné bordant stade situé près célèbre marché puces commune saint ouen proche banlieue parisienne </vcard:CATEGORIES>
+    <vcard:NAME>Stade Bauer</vcard:NAME>
+    <vcard:PRODID>559</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/317">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée clemenceau musée ouvert public 1931 benjamin franklin dans arrondissement paris musée installé dans appartement jardin georges clemenceau vécut 1895 jusqu mort 1929 consacré travail dernier </vcard:CATEGORIES>
+    <vcard:NAME>Musée Clemenceau</vcard:NAME>
+    <vcard:PRODID>317</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/305">
+    <vcard:CLASS>9</vcard:CLASS>
+    <vcard:CATEGORIES> Médailles et Antiques de la Bibliothèque nationale de France"</vcard:CATEGORIES>
+    <vcard:NAME>"Département des Monnaies</vcard:NAME>
+    <vcard:PRODID>305</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/535">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES>mirabeau station métro paris ligne dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Mirabeau (métro de Paris)</vcard:NAME>
+    <vcard:PRODID>535</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/547">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> basilique sacré cœur dite national située sommet butte montmartre dans quartier clignancourt arrondissement paris édifice religieux parisien majeur sanctuaire adoration eucharistique miséricorde divine construction cette église monument fois politique culturel suit après guerre 1870 elle déclarée utilité publique votée juillet 1873 assemblée nationale 1871 elle inscrit dans cadre nouvel ordre moral faisant suite événements commune paris dont montmartre hauts lieux avec près onze millions pèlerins visiteurs second monument religieux parisien plus visité après cathédrale notre dame paris </vcard:CATEGORIES>
+    <vcard:NAME>Basilique du Sacré-Cœur de Montmartre</vcard:NAME>
+    <vcard:PRODID>547</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/49">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> cité située seine plein cœur paris elle considérée comme antique berceau ville paris autrefois lutèce elle appartient arrondissements chroniqueur bazoches évoquait 1190 comme étant tête cœur moelle paris superficie cité environ janvier 2007 population habitants site desservi stations métro cité saint michel </vcard:CATEGORIES>
+    <vcard:NAME>Île de la Cité</vcard:NAME>
+    <vcard:PRODID>49</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/25">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place dauphine place arrondissement paris france située ouest cité ancien palais cité place dauphine constitue seconde place royale parisienne xviie siècle après place vosges </vcard:CATEGORIES>
+    <vcard:NAME>Place Dauphine</vcard:NAME>
+    <vcard:PRODID>25</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/37">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place bataille stalingrad place située dans arrondissements paris dans quartiers hôpital saint louis villette elle ferme bassin villette écluse permet passage vers canal saint martin rotonde villette architecte claude nicolas ledoux située cette place </vcard:CATEGORIES>
+    <vcard:NAME>Place de la Bataille-de-Stalingrad</vcard:NAME>
+    <vcard:PRODID>37</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/251">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée franc maçonnerie situé siège grand orient france cadet dans arrondissement paris possède appellation musée france délivrée ministère culture musée rouvert portes public février 2010 après conséquents travaux rénovation soutien ministère culture région france mairie paris </vcard:CATEGORIES>
+    <vcard:NAME>Musée de la franc-maçonnerie</vcard:NAME>
+    <vcard:PRODID>251</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/481">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour granite gratte ciel bureaux dans quartier affaires défense france elle située plus précisément nanterre périmètre opération intérêt national seine arche juste limite quartier défense </vcard:CATEGORIES>
+    <vcard:NAME>Tour Granite</vcard:NAME>
+    <vcard:PRODID>481</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/493">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre antoine simone berriau théâtre situé boulevard strasbourg dans arrondissement paris depuis novembre 1989 théâtre antoine inscrit titre monuments historiques </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre Antoine-Simone-Berriau</vcard:NAME>
+    <vcard:PRODID>493</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/81">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> avenue victor hugo avenue arrondissement paris commençant place charles gaulle terminant place tattegrain avenue henri martin douze avenues partant place étoile plus longue après avenue champs élysées située entre avenue foch avenue kléber colline chaillot traversant tout nord très chic arrondissement près deux kilomètres place étoile porte muette avenues parisiennes plus prestigieuses station métro victor hugo ligne situe milieu avenue </vcard:CATEGORIES>
+    <vcard:NAME>Avenue Victor-Hugo (Paris)</vcard:NAME>
+    <vcard:PRODID>81</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/401">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre huchette salle théâtre située huchette dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre de la Huchette</vcard:NAME>
+    <vcard:PRODID>401</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/631">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour gratte ciel bureaux dans quartier affaires défense courbevoie hauts seine france </vcard:CATEGORIES>
+    <vcard:NAME>Tour D2</vcard:NAME>
+    <vcard:PRODID>631</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/93">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> faubourg saint honoré voie arrondissement paris traverse ouest travers quartiers madeleine faubourg roule elle commence royale termine place ternes elle longue mètres agit rues plus luxueuses capitale outre palais élysée résidence officielle président république française faubourg saint honoré adresse ambassades magasins luxe haute couture ainsi galeries prestigieuses </vcard:CATEGORIES>
+    <vcard:NAME>Rue du Faubourg-Saint-Honoré</vcard:NAME>
+    <vcard:PRODID>93</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/413">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel ville paris héberge institutions municipales paris depuis 1357 situé dans arrondissement site desservi stations métro hôtel ville châtelet </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel de ville de Paris</vcard:NAME>
+    <vcard:PRODID>413</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/299">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> château vincennes forteresse située vincennes paris érigé xive siècle xviie siècle plus vaste château fort royal français subsistant hauteur donjon mètres plus haut europe plus hautes forteresses plaine europe avec celui crest château vincennes siège service historique défense </vcard:CATEGORIES>
+    <vcard:NAME>Château de Vincennes</vcard:NAME>
+    <vcard:PRODID>299</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/287">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> maison photographie robert doisneau centre exposition photographie inaugurée avril 1996 situé division général leclerc gentilly marne </vcard:CATEGORIES>
+    <vcard:NAME>Maison de la photographie Robert-Doisneau</vcard:NAME>
+    <vcard:PRODID>287</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/275">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée grévin musée cire privé propriété grévin inauguré juin 1882 filiale compagnie alpes depuis privatisation situé dans arrondissement paris france dans lequel sont regroupées reproductions cire personnages célèbres font aussi partie visite musée théâtre grévin salle spectacle palais mirages attraction utilisant principe illusion optique salle coupole salle colonnes possèdent très beaux décors style baroque datant 1882 compte moins personnages cire allant albert einstein mahatma gandhi passant michael jackson alfred hitchcock nombreuses scènes histoire france sont reconstituées comme captivité louis temple jeanne bûcher régulièrement nouvelles personnalités font leur entrée musée grévin 2015 statue cire zlatan ibrahimovic fait entrée grévin paris site desservi station métro grands boulevards ligne métro </vcard:CATEGORIES>
+    <vcard:NAME>Musée Grévin</vcard:NAME>
+    <vcard:PRODID>275</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/263">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée ennery musée national situé paris avenue foch dans arrondissement consacré asiatique présente collection objets réunie durant deuxième moitié xixe siècle clémence ennery 1823 1898 épouse 1881 prolifique romancier dramaturge adolphe ennery collection commencée 1859 joséphine clémence lecarpentier veuve desgranges avait transférée maison echiquier paris présentée dans hôtel particulier dont construction débuta 1875 </vcard:CATEGORIES>
+    <vcard:NAME>Musée d'Ennery</vcard:NAME>
+    <vcard:PRODID>263</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/429">
+    <vcard:CLASS>gare</vcard:CLASS>
+    <vcard:CATEGORIES> gare saint denis parfois appelée saint denis voyageurs gare ferroviaire française lignes paris nord lille saint denis dieppe elle située ouest commune saint denis dans département seine saint denis région france nord partie territoire communal comprise entre seine canal saint denis hauteur avant dernière écluse dernier avant fleuve bâtiment voyageurs donne place victimes octobre 1961 dénomination depuis mars 2007 ancienne place gare pont constituant partie port passerelle pour piétons dessus canal permettent passer vers centre ville elle trois gares avec celles stade france saint denis ligne plaine stade france ligne desservent commune plus particulièrement centre ville ainsi commune voisine saint denis située ouest avec voyageurs jour cette gare constitue troisième pôle multimodal france sous dimensionnée elle fait objet études dans cadre comité pôle plan déplacements urbains afin rendre plus fonctionnelle plus confortable permettre accueillir flux induits prolongement ligne tramway vers ouest création ligne tramway sont correspondances avec gare </vcard:CATEGORIES>
+    <vcard:NAME>Gare de Saint-Denis</vcard:NAME>
+    <vcard:PRODID>429</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/405">
+    <vcard:CLASS>avenue</vcard:CLASS>
+    <vcard:CATEGORIES>four seasons hotel george hôtel construit 1928 situé avenue george dans quartier champs élysées arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel George-V</vcard:NAME>
+    <vcard:PRODID>405</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/635">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel charost hôtel particulier situé faubourg saint honoré paris depuis 1814 résidence ambassadeur royaume france trouve quelques palais élysée </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel de Charost</vcard:NAME>
+    <vcard:PRODID>635</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/417">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> centre hospitalier universitaire kremlin bicêtre situé général leclerc dans marne paris site ancien hospice bicêtre comprend partie médecine université paris première année paces fait orsay châtenay malabry puis reste kremlin bicêtre </vcard:CATEGORIES>
+    <vcard:NAME>Centre hospitalier universitaire Kremlin-Bicêtre</vcard:NAME>
+    <vcard:PRODID>417</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/623">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour ariane gratte ciel bureaux situé dans quartier affaires défense france précisément puteaux dans quartier défense </vcard:CATEGORIES>
+    <vcard:NAME>Tour Ariane</vcard:NAME>
+    <vcard:PRODID>623</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/1">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> parc montsouris jardin public situé dans quartier même dans paris dans arrondissement pendant méridional parc buttes chaumont parc anglaise aménagé xixe siècle étend hectares planté nombreuses espèces végétales abrite grand nombre espèces oiseaux panneaux information précisent parc doit nombreux rongeurs étaient multipliés long moulins bièvre </vcard:CATEGORIES>
+    <vcard:NAME>Parc Montsouris</vcard:NAME>
+    <vcard:PRODID>1</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/121">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> zadkine voie situé dans quartier gare dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue Zadkine</vcard:NAME>
+    <vcard:PRODID>121</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/581">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> halle georges carpentier salle polyvalente places basket ball située dans arrondissement paris boulevard masséna elle fait partie centre sportif important comprend gymnase terrains football rugby athlétisme </vcard:CATEGORIES>
+    <vcard:NAME>Halle Georges-Carpentier</vcard:NAME>
+    <vcard:PRODID>581</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/133">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place dalida place montmartre dans arrondissement paris dédiée chanteuse dalida </vcard:CATEGORIES>
+    <vcard:NAME>Place Dalida</vcard:NAME>
+    <vcard:PRODID>133</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/145">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> saint honoré paris située dans arrondissements elle doit ancienne église collégiale saint honoré portant saint honoré amiens située autrefois dans cloître saint honoré </vcard:CATEGORIES>
+    <vcard:NAME>Rue Saint-Honoré</vcard:NAME>
+    <vcard:PRODID>145</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/157">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> richelieu longue centre paris arrondissement nord arrondissement </vcard:CATEGORIES>
+    <vcard:NAME>Rue de Richelieu</vcard:NAME>
+    <vcard:PRODID>157</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/169">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> elzévir située cœur quartier marais dans arrondissement paris elle commence francs bourgeois pour rejoindre angle place thorigny parc royal </vcard:CATEGORIES>
+    <vcard:NAME>Rue Elzévir</vcard:NAME>
+    <vcard:PRODID>169</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/501">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> alhambra était salle music hall parisienne située malte dans xi11e arrondissement démolie 1967 nouvel alhambra inauguré avril 2008 yves toudic mètres ancien alhambra maurice chevalier </vcard:CATEGORIES>
+    <vcard:NAME>Alhambra (Paris)</vcard:NAME>
+    <vcard:PRODID>501</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/399">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> château issy aujourd détruit était situé territoire actuelle commune issy moulineaux hauts seine xviiie siècle princes conti principaux propriétaires domaine château brûlé 1871 pendant commune paris deux pavillons entrée conservé abrite galerie histoire ville issy moulineaux sein musée français carte jouer </vcard:CATEGORIES>
+    <vcard:NAME>Château d'Issy</vcard:NAME>
+    <vcard:PRODID>399</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/387">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> centre national arts plastiques abrégé acronyme cnap institution culturelle française prenant forme établissement public caractère administratif placé sous tutelle ministère culture communication créé décret octobre 1982 pour soutenir promouvoir création artistique dans domaines plastiques visuels cnap missions renforcées autonomie affirmer 2002 pour accompagner réforme politique culturelle état établissement désormais opérateur action dans domaine contemporain échelle nationale œuvre actions formation publics professionnels centre national arts plastiques intervient directement dans économie artistique tant collectionneur public enrichissant gérant pour compte état ensemble œuvresrelevant tous domaines création connu sous appellation fonds national contemporain œuvres acquises commandées pour vocation être diffusées biais procédures spécifiques prêts dépôts centre national arts plastiques remplit ainsi véritable mission service public auprès institutions culturelles françaises internationales administrations ambassades ministères contribuant ainsi diffusion contemporain auprès large public centre national arts plastiques soutient aussi recherche création artistique moyen allocations bourses recherche attribuées artistes engagés dans démarches expérimentales accompagne professionnels contemporain galeries éditeurs restaurateurs critiques grâce contributions financières acteur économique artistique cnap avant tout partenaire culturel relais institutionnel associe ainsi partenaires publics musées contemporain fonds régionaux contemporain centres monuments nationaux privés fondations entreprises maisons éditions pour organiser expositions france étranger également coproducteur grandes expositions contemporain grand palais monumenta force coéditeur ouvrages création contemporaine toutes actions centre national arts plastiques souhaite promouvoir place création contemporaine dans société favoriser notamment croisements entre sphères artistiques économiques siège dans tour atlantique défense </vcard:CATEGORIES>
+    <vcard:NAME>Centre national des arts plastiques</vcard:NAME>
+    <vcard:PRODID>387</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/375">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> porte saint denis triomphe situé dans actuel arrondissement paris construit 1672 architecte françois blondel gloire louis elle située emplacement porte paris ancienne enceinte charles monuments plus représentatifs officiel époque présenté dans toutes anthologies </vcard:CATEGORIES>
+    <vcard:NAME>Porte Saint-Denis</vcard:NAME>
+    <vcard:PRODID>375</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/363">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel marigny hôtel particulier parisien xixe siècle situé avenue marigny dans arrondissement proximité palais élysée </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel de Marigny</vcard:NAME>
+    <vcard:PRODID>363</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/593">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir napoléon homonymie hôtel napoléon hôtel situé proximité triomphe avenue friedland dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel Napoléon</vcard:NAME>
+    <vcard:PRODID>593</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/351">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée poupée musée privé dédié monde poupée situé paris </vcard:CATEGORIES>
+    <vcard:NAME>Musée de la Poupée - Au Petit Monde Ancien</vcard:NAME>
+    <vcard:PRODID>351</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/23">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir breuil arboretum école breuil arboretum paris situé paris france dans bois vincennes fait partie quatre pôles jardin botanique ville paris avec parc floral paris aussi dans bois vincennes ainsi parc bagatelle jardin serres auteuil tous deux dans bois boulogne </vcard:CATEGORIES>
+    <vcard:NAME>Arboretum de l'école Du Breuil</vcard:NAME>
+    <vcard:PRODID>23</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/35">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> place jean marais situe dans arrondissement paris devant parvis église saint pierre montmartre près place tertre sommet butte montmartre elle porte depuis arrêté conseil municipal ville paris date mars 2007 elle inaugurée avril 2008 daniel vaillant maire arrondissement paris présence christophe caresche député huitième circonscription paris michou </vcard:CATEGORIES>
+    <vcard:NAME>Place Jean-Marais</vcard:NAME>
+    <vcard:PRODID>35</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/319">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> galerie minéralogie géologie établissements muséum national histoire naturelle elle trouve dans jardin plantes paris elle comporte collection environ pièces roches minéraux cristaux gemmes météorites œuvres relation figure parmi plus anciennes plus prestigieuses monde </vcard:CATEGORIES>
+    <vcard:NAME>Galerie de Minéralogie et de Géologie du Muséum national d'Histoire naturelle</vcard:NAME>
+    <vcard:PRODID>319</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/11">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> jardin luxembourg jardin ouvert public situé dans arrondissement paris créé 1612 demande marie médicis pour accompagner palais luxembourg fait objet restauration dirigée architecte jean françois thérèse chalgrin sous premier empire appartient désormais domaine sénat étend hectares ouverts public agrémenté parterres fleurs sculptures rendez vous prédilection parisiens attire également visiteurs monde entier parisiens appellent affectueusement luco </vcard:CATEGORIES>
+    <vcard:NAME>Jardin du Luxembourg</vcard:NAME>
+    <vcard:PRODID>11</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/307">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir bibliothèque musée opéra service couplant bibliothèque musée situé sein opéra garnier dans arrondissement paris dépend plus opéra paris mais fait partie département musique bibliothèque nationale france </vcard:CATEGORIES>
+    <vcard:NAME>Bibliothèque-musée de l'Opéra</vcard:NAME>
+    <vcard:PRODID>307</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/537">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> olympia salle spectacle située boulevard capucines dans arrondissement paris plus ancien music hall paris encore activité elle propriété groupe vivendi depuis 2001 </vcard:CATEGORIES>
+    <vcard:NAME>Olympia (Paris)</vcard:NAME>
+    <vcard:PRODID>537</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/549">
+    <vcard:CLASS>gare</vcard:CLASS>
+    <vcard:CATEGORIES> gare haussmann saint lazare gare ferroviaire française située dans arrondissement paris elle terminus occidental ligne origine projet cette station était dénommée saint lazare condorcet </vcard:CATEGORIES>
+    <vcard:NAME>Gare Haussmann - Saint-Lazare</vcard:NAME>
+    <vcard:PRODID>549</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/513">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> église saint étienne mont église située montagne sainte geneviève dans arrondissement paris proximité lycée henri panthéon elle fait objet classement titre monuments historiques liste 1862 </vcard:CATEGORIES>
+    <vcard:NAME>Église Saint-Étienne-du-Mont de Paris</vcard:NAME>
+    <vcard:PRODID>513</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/525">
+    <vcard:CLASS>gare</vcard:CLASS>
+    <vcard:CATEGORIES> gare fontenay sous bois gare ferroviaire française commune fontenay sous bois département marne </vcard:CATEGORIES>
+    <vcard:NAME>Gare de Fontenay-sous-Bois</vcard:NAME>
+    <vcard:PRODID>525</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/47">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place bastille place paris lieu symbolique révolution française ancienne forteresse bastille détruite entre juillet 1789 juillet 1790 </vcard:CATEGORIES>
+    <vcard:NAME>Place de la Bastille</vcard:NAME>
+    <vcard:PRODID>47</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/59">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place nation ancienne place trône puis place trône renversé place paris située intersection arrondissements </vcard:CATEGORIES>
+    <vcard:NAME>Place de la Nation</vcard:NAME>
+    <vcard:PRODID>59</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/471">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour franklin gratte ciel bureaux situé dans quartier affaires français défense puteaux dans quartier défense </vcard:CATEGORIES>
+    <vcard:NAME>Tour Franklin (La Défense)</vcard:NAME>
+    <vcard:PRODID>471</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/">
+    <vcard:CLASS>cluster_name</vcard:CLASS>
+    <vcard:CATEGORIES>description_fr</vcard:CATEGORIES>
+    <vcard:NAME>name</vcard:NAME>
+    <vcard:PRODID></vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/633">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> fort fort militaire conçu pour protéger paris situé saint denis construit entre 1841 1843 dans cadre enceinte thiers comme quinze autres forts détachés dernier premier ministre louis philippe avait fait commencer travaux 1840 sans attendre finance 1841 alloua millions pour réaliser immense ceinture défense kilomètres long forts détachés bastions portes barrières poternes passages chemin passages rivières canaux près ouvriers travaillèrent évolution artillerie rend rapidement obsolètes fortifications parle céder enceinte 1882 député martin nadaud lance débat 1919 ouvrage cédé mairie paris pour millions francs 1953 zone ædificandi abrogée fort encore utilisé armée nombreux réservistes sont entraînés unités stationnées particulier dans cadre opération vigipirate abrite siège fédération nationale sous officiers réserve rares photographies sont disponibles internet longé autoroute nord parfaitement visible fait face désormais lycée suger bâti 1994 archives militaires liées insubordinations première guerre mondiale sont conservées ainsi certain nombre archives classées issues anciennes bibliothèques garnison glacis fort partie occupé jardins ouvriers photographe patrick zachmann immortalisés 1994 </vcard:CATEGORIES>
+    <vcard:NAME>Fort de l'Est</vcard:NAME>
+    <vcard:PRODID>633</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/621">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> dôme paris palais sports situé place porte versailles dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Dôme de Paris - Palais des sports</vcard:NAME>
+    <vcard:PRODID>621</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/289">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> catacombes paris terme utilisé pour nommer ossuaire municipal sont origine partie anciennes carrières souterraines situées dans arrondissement paris reliées entre elles galeries inspection elles sont transformées ossuaire municipal xviiie siècle avec transfert restes environ millions individus évacués divers cimetières parisiens jusqu 1861 pour raisons salubrité publique elles prennent alors abusif catacombes analogie avec nécropoles souterraines rome antique bien elles aient jamais officiellement servi lieu sépulture environ long situées vingt mètres sous surface elles sont officiellement visitées environ visiteurs partir place denfert rochereau constituent musée ville paris dépendant musée carnavalet cette partie ouverte public représente infime fraction environ vastes carrières souterraines paris étendent sous plusieurs arrondissements capitale existe aussi autres ossuaires souterrains paris inaccessibles public demeurent particulièrement méconnus site desservi station métro denfert rochereau site également desservi station denfert rochereau </vcard:CATEGORIES>
+    <vcard:NAME>Catacombes de Paris</vcard:NAME>
+    <vcard:PRODID>289</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/91">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> boulevard haussmann boulevard paris relie carrefour boulevard italiens boulevard montmartre située station métro richelieu drouot avenue friedland prolonge ouest long mètres boulevard haussmann traverse presque entièrement arrondissements part quartier principaux sièges banques longe grands magasins auxquels associe souvent aujourd puis traverse quartiers comportant surtout bureaux mais toujours cossus édifié main œuvre constituée grande partie maçons creuse </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard Haussmann</vcard:NAME>
+    <vcard:PRODID>91</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/277">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée national marine issu collection offerte louis henri louis duhamel monceau installée louvre 1752 1793 puis 1827 1939 collection permanente musée exposée depuis 1943 dans aile passy palais chaillot paris musée établissement public caractère administratif depuis 1971 possède antennes brest rochefort toulon port louis traite aujourd toutes marines travers collections expositions temporaires </vcard:CATEGORIES>
+    <vcard:NAME>Musée national de la Marine</vcard:NAME>
+    <vcard:PRODID>277</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/265">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée bouilhet christofle musée privé situé royale dans arrondissement paris fermé depuis 2008 sans date prévue réouverture </vcard:CATEGORIES>
+    <vcard:NAME>Musée Bouilhet-Christofle</vcard:NAME>
+    <vcard:PRODID>265</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/253">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée monuments français musée sculpture monumentale architecture constituant aujourd trois départements cité architecture patrimoine créé sous musée sculpture comparée 1879 eugène viollet rassemble importantes collections moulages peintures murales reproduites grandeur nature maquettes reproduisant chefs œuvre patrimoine architectural français </vcard:CATEGORIES>
+    <vcard:NAME>Musée des monuments français (1879)</vcard:NAME>
+    <vcard:PRODID>253</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/483">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES>eollys tours levallois était projet deux gratte ciel bureaux construire territoire commune levallois perret ouest paris france projet annulé délibération conseil municipal ville levallois perret septembre 2011 suite réticences riverains </vcard:CATEGORIES>
+    <vcard:NAME>Tours de Levallois</vcard:NAME>
+    <vcard:PRODID>483</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/241">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> manufacture gobelins manufacture tapisserie dont entrée située avenue gobelins paris dans xiiie arrondissement elle créée avril 1601 sous impulsion henri instigation conseiller commerce barthélemy laffemas galerie rénovée partir années 1970 afin retrouver mission origine espace expositions fête 400e anniversaire lors réouverture public 2007 officiel manufacture nationale gobelins elle dépend administration générale mobilier national manufactures nationales tapis tapisseries regroupe mobilier national manufacture tapisserie gobelins manufacture beauvais ateliers situés paris beauvais manufacture savonnerie ateliers situés paris lodève ainsi ateliers dentelle alençon manufactures gobelins beauvais savonnerie sont trois hauts lieux tapisserie tapis france auxquels sont rattachés atelier lodève tapis ateliers dentelle fuseaux alençon dentelle aiguille priorités sont ameublement bâtiments état poursuite tradition avec conservation techniques anciennes maintien qualité traditionnelle appliquée expressions artistiques contemporaines </vcard:CATEGORIES>
+    <vcard:NAME>Manufacture des Gobelins</vcard:NAME>
+    <vcard:PRODID>241</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/495">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES>théâtre nouveautésfichier théâtre nouveautés théâtre nouveautés 2010 théâtre nouveautés salle spectacle parisienne dont emplacement varié siècles </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre des Nouveautés</vcard:NAME>
+    <vcard:PRODID>495</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/407">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel hyatt regency paris étoile anciennement hôtel concorde fayette gratte ciel situé paris france dans arrondissement près porte maillot propriété constellation hotels holdings avec mètres haut agit plus hauts hôtels français après celui tour part dieu lyon troisième plus haut bâtiment territoire ville paris après tour eiffel tour montparnasse mais plus petit certains immeubles quartier défense situés proximité antenne située toit permet même atteindre mètres hauteur avec trente huit étages abrite chambres suites avec palais congrès situé juste côté constitue centres congrès paris </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel Hyatt Regency Paris Étoile</vcard:NAME>
+    <vcard:PRODID>407</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/419">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> prison force hôtel particulier transformé maison détention servit prison pour ville paris entre 1780 1845 </vcard:CATEGORIES>
+    <vcard:NAME>Prison de La Force</vcard:NAME>
+    <vcard:PRODID>419</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/613">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES>angelina salon parisien situé rivoli dans arrondissement paris réputé notamment pour confection spécialités françaises comme chocolat chaud mont blanc salon appartient mont blanc chocolat filiale groupe bertrand </vcard:CATEGORIES>
+    <vcard:NAME>Angelina (salon de thé)</vcard:NAME>
+    <vcard:PRODID>613</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/601">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES>théâtre madeleinefichier théâtre madeleine théâtre madeleine 2010 géolocalisation carte paris géolocalisation carte france théâtre madeleine théâtre construit anglaise situé dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre de la Madeleine</vcard:NAME>
+    <vcard:PRODID>601</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/637">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> bibliothèque sainte barbe bibliothèque interuniversitaire parisienne elle située depuis ouverture 2009 dans bâtiments ancien collège sainte barbe font objet inscription titre monuments historiques depuis décembre 1999 </vcard:CATEGORIES>
+    <vcard:NAME>Bibliothèque Sainte-Barbe</vcard:NAME>
+    <vcard:PRODID>637</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/625">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> parc expositions porte versailles plus grand parc expositions français situé territoires quartier saint lambert arrondissement paris communes issy moulineaux vanves dans hauts seine étend deux côtés boulevard périphérique porte issy ouest porte plaine entrée principale situant place porte versailles jonction deux boulevards maréchaux lefebvre victor parc expositions géré société viparis depuis 1987 </vcard:CATEGORIES>
+    <vcard:NAME>Parc des expositions de la porte de Versailles</vcard:NAME>
+    <vcard:PRODID>625</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/111">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> pour article homonyme voir molière molière centre paris dans arrondissement elle part avenue opéra près comédie française termine richelieu carrefour trône fontaine portant statue molière article détaillé fontaine molière elle porté plusieurs noms dont fontaine molière avant 1843 traversière saint honoré plus anciennement traversière traversine traversante 1625 brasserie bâton royal avant prendre actuel 1867 amputée percements avenue opéra échelle opérés sous second empire jusqu milieu xixe siècle elle étendait jusqu saint honoré typique vieux paris était alors sale habitée gens recommandables balzac fait cette description traversière saint honoré elle infâme méchantes petites maisons deux croisées étage étage trouvent vices crimes misère honoré balzac ferragus revue paris 1833</vcard:CATEGORIES>
+    <vcard:NAME>Rue Molière (Paris)</vcard:NAME>
+    <vcard:PRODID>111</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/123">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> boulevard auguste blanqui boulevard arrondissement paris fait partie relie place italie place denfert rochereau boulevard doit penseur révolutionnaire socialiste français auguste blanqui 1805 1881 </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard Auguste-Blanqui</vcard:NAME>
+    <vcard:PRODID>123</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/135">
+    <vcard:CLASS>avenue</vcard:CLASS>
+    <vcard:CATEGORIES> marbeuf voie arrondissement paris elle commence avenue george termine avenue champs élysées </vcard:CATEGORIES>
+    <vcard:NAME>Rue Marbeuf</vcard:NAME>
+    <vcard:PRODID>135</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/147">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> lepic voie située dans quartier grandes carrières arrondissement paris rues plus renommées butte montmartre </vcard:CATEGORIES>
+    <vcard:NAME>Rue Lepic</vcard:NAME>
+    <vcard:PRODID>147</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/159">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> chat pêche voie située dans quartier sorbonne arrondissement paris avec largeur maximale mètre elle parfois présentée comme plus étroite capitale titre toutefois compétition avec sentier merisiers large dans arrondissement elle part quai saint michel termine hauteur huchette pour longueur mètres </vcard:CATEGORIES>
+    <vcard:NAME>Rue du Chat-qui-Pêche</vcard:NAME>
+    <vcard:PRODID>159</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/389">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES>mundolingua musée situé dans arrondissement paris pour vocation présenter public informations documents langues langage linguistique </vcard:CATEGORIES>
+    <vcard:NAME>Mundolingua</vcard:NAME>
+    <vcard:PRODID>389</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/191">
+    <vcard:CLASS>avenue</vcard:CLASS>
+    <vcard:CATEGORIES> boétie arrondissement paris elle commence astorg termine avenue champs élysées </vcard:CATEGORIES>
+    <vcard:NAME>Rue La Boétie</vcard:NAME>
+    <vcard:PRODID>191</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/377">
+    <vcard:CLASS>0</vcard:CLASS>
+    <vcard:CATEGORIES> 1er arrondissement)"</vcard:CATEGORIES>
+    <vcard:NAME>"Hôtel de Villeroy (Paris</vcard:NAME>
+    <vcard:PRODID>377</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/365">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> triomphe étoile souvent appelé simplement triomphe dont construction décidée empereur napoléon débuta 1806 acheva 1836 sous louis philippe situé paris dans arrondissement élève centre place charles gaulle anciennement place étoile dans extrémité ouest avenue champs élysées kilomètres place concorde haut large profond géré centre monuments nationaux hauteur grande voûte largeur petite voûte mesure haut large monument pèse prenant compte fondations enfoncent profondeur coût total construction place étoile forme énorme rond point douze avenues percées xixe siècle sous impulsion baron haussmann alors préfet département seine avenues rayonnent étoile autour place notamment avenue kléber avenue grande armée avenue wagram plus connue avenue champs élysées pavés couleurs différentes dessinent place deux étoiles dont pointes arrivent pour milieu avenues pour autre entre avenues site desservi station métro charles gaulle étoile </vcard:CATEGORIES>
+    <vcard:NAME>Arc de triomphe de l'Étoile</vcard:NAME>
+    <vcard:PRODID>365</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/595">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES>zénith paris villette géolocalisation carte arrondissement paris géolocalisation carte paris zénith paris villette salle concert parisienne située dans parc villette dans xixe arrondissement bord canal ourcq capacité maximum places </vcard:CATEGORIES>
+    <vcard:NAME>Le Zénith Paris - La Villette</vcard:NAME>
+    <vcard:PRODID>595</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/353">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée préfecture police collections historiques préfecture police musée parisien situé troisième étage hôtel police arrondissement paris trouvant montagne sainte geneviève propose histoire police xviie siècle jusqu jours </vcard:CATEGORIES>
+    <vcard:NAME>Musée de la préfecture de police</vcard:NAME>
+    <vcard:PRODID>353</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/341">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> banque france annoncé création cité économie monnaie 2011 lors conférence presse gouverneur christian noyer ouverture prévue 2018 septembre 2015 même temps était présentée programmation 2016 musée annoncé citéco cité économie monnaie lieu pédagogique visant expliquer notions mécanismes économie confié marc olivier srauss kahn installera dans hôtel gaillard place général catroux dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Cité de l'économie et de la monnaie (projet)</vcard:NAME>
+    <vcard:PRODID>341</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/571">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> église saint louis louvre église disparue paris détruite lors création aile nord palais louvre lors second empire </vcard:CATEGORIES>
+    <vcard:NAME>Église Saint-Louis-du-Louvre</vcard:NAME>
+    <vcard:PRODID>571</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/583">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> maison roche construite entre 1923 1925 corbusier pierre jeanneret elle considérée aujourd comme exemple prestigieux architecture moderne france dans lequel trouve pour première fois expression architecturale cinq points pour architecture nouvelle également pour corbusier occasion développer avec villa idée promenade architecturale marchant déplaçant voit développer ordonnances architecture maison roche jumelée avec maison jeanneret abrite aujourd fondation corbusier deux bâtisses sont classées monument historique depuis 1996 site inscrit avec autres œuvres architecturales corbusier patrimoine mondial unesco 2016 </vcard:CATEGORIES>
+    <vcard:NAME>Maison La Roche</vcard:NAME>
+    <vcard:PRODID>583</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/45">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place vendôme située dans arrondissement paris trouve nord jardin tuileries opéra garnier église madeleine typique urbanisme classique français places paris plus célèbres considérée comme plus luxueuses monde architecture jules hardouin mansart conçut 1699 plan urbanisme strict auquel devaient conformer propriétaires immeubles grande partie façades classée monument historique centre trouve colonne vendôme édifiée 1810 abattue communards reconstruite ensuite elle appelée place vendôme xviie siècle hôtel vendôme trouvait était plus anciennement place louis grand origine place conquêtes donné place piques pendant révolution elle nommée place internationale 1871 pendant seconde commune paris durant laquelle colonne vendôme détruite communards voyaient symbole tyrannie militarisme napoléon avant devenir lieu central pour joaillerie connait jours place vendôme avec paix épicentre élégance parisienne durant demi siècle comptant nombre couturiers modistes hôtel bourvallais situé abrite ministère justice parfois désigné métonymie place vendôme </vcard:CATEGORIES>
+    <vcard:NAME>Place Vendôme</vcard:NAME>
+    <vcard:PRODID>45</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/57">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> deux plateaux communément appelée colonnes buren œuvre daniel buren réalisée avec aide patrick bouchain dans cour honneur palais royal paris france abords immédiats ministère culture comédie française jardin palais royal classé monument historique depuis 1920 ensemble domaine comprenant deux plateaux 1994 </vcard:CATEGORIES>
+    <vcard:NAME>Les Deux Plateaux</vcard:NAME>
+    <vcard:PRODID>57</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/21">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> jardin atlantique jardin parisien quartier necker arrondissement conçu françois brun michel péna paysagistes construit dessus voies gare paris montparnasse surface hectares entouré barres immeubles ensemble maine montparnasse </vcard:CATEGORIES>
+    <vcard:NAME>Jardin Atlantique</vcard:NAME>
+    <vcard:PRODID>21</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/309">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> exploradôme établissement spécialisé dans vulgarisation culture scientifique multimédia créé initiative goéry delacôte pour mission diffuser plus grand nombre notamment enfants adolescents connaissances scientifiques multimédias ainsi susciter intérêt citoyens pour développement durable exploradôme situé vitry seine place marché dans marne proximité trouvent musée contemporain marne galerie municipale jean collet expositions contemporain parc joliot curie </vcard:CATEGORIES>
+    <vcard:NAME>Exploradôme</vcard:NAME>
+    <vcard:PRODID>309</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/539">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour séquoia anciennement tour esplanade gratte ciel bureaux situé dans quartier affaires défense france précisément puteaux dans quartier défense </vcard:CATEGORIES>
+    <vcard:NAME>Tour Séquoia</vcard:NAME>
+    <vcard:PRODID>539</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/33">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place acadie place arrondissement paris cette place paris inaugurée mars 1984 maire époque jacques chirac ainsi président association amitiés acadiennes monsieur philippe rossillon elle constitue lieu passage important saint germain prés entre bars enseignes mode </vcard:CATEGORIES>
+    <vcard:NAME>Place d'Acadie</vcard:NAME>
+    <vcard:PRODID>33</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/515">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> église saint augustin église arrondissement paris construite entre 1860 1871 </vcard:CATEGORIES>
+    <vcard:NAME>Église Saint-Augustin de Paris</vcard:NAME>
+    <vcard:PRODID>515</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/527">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel galliffet hôtel particulier situé paris dans arrondissement grenelle varenne actuellement siège institut culturel italien paris délégation italienne auprès ocde </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel de Galliffet</vcard:NAME>
+    <vcard:PRODID>527</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/503">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> moulin rouge également graphié moulin rouge beaucoup plus rarement moulin rouge cabaret parisien fondé 1889 joseph oller charles zidler possédaient déjà olympia situé boulevard clichy dans arrondissement paris pied butte montmartre style imités empruntés autres cabarets dans monde entier site desservi station métro blanche </vcard:CATEGORIES>
+    <vcard:NAME>Moulin-Rouge</vcard:NAME>
+    <vcard:PRODID>503</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/69">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> obélisque louxor obélisque provenant origine temple louxor égypte érigé depuis 1836 centre place concorde paris obélisque louxor classé titre monument historique 1936 site desservi station métro concorde </vcard:CATEGORIES>
+    <vcard:NAME>Obélisque de Louxor</vcard:NAME>
+    <vcard:PRODID>69</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/611">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> église saint merri saint merry église catholique située proximité centre georges pompidou croisement saint martin verrerie dans arrondissement paris saint merri viendrait abbé saint médéric mort canonisé puis rebaptisé saint merri contraction restes saint reposent toujours dans crypte église </vcard:CATEGORIES>
+    <vcard:NAME>Église Saint-Merri</vcard:NAME>
+    <vcard:PRODID>611</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/279">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> musée fragonard rassemble collections école nationale vétérinaire alfort située maisons alfort dédié honoré fragonard pris musée fragonard école vétérinaire maisons alfort occasion réouverture novembre 2008 cette école prestigieuse installée 1766 château alfort elle détient titre deuxième école vétérinaire monde après celle lyon fondée peine quatre auparavant claude bourgelat écuyer louis </vcard:CATEGORIES>
+    <vcard:NAME>Musée Fragonard de l'École vétérinaire de Maisons-Alfort</vcard:NAME>
+    <vcard:PRODID>279</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/267">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée adzak adzak espace international ouvert public dans atelier adzak sculpteur photographe britannique 1927 1987 dans arrondissement paris musée adzak également lieu résidence artistes </vcard:CATEGORIES>
+    <vcard:NAME>Musée Adzak</vcard:NAME>
+    <vcard:PRODID>267</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/255">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> centquatre établissement public coopération culturelle parisien ouvert depuis octobre 2008 site ancien service municipal pompes funèbres aubervilliers dans arrondissement paris faible fréquentation ainsi importance subventions ville paris suscitera différentes polémiques dans presse </vcard:CATEGORIES>
+    <vcard:NAME>Centquatre-Paris</vcard:NAME>
+    <vcard:PRODID>255</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/485">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> lombards principaux clubs jazz paris situé dans lombards accueille autres célèbres établissements même type tels baiser salé sunset sunside croisement avec boulevard sébastopol dans arrondissement fondé 1984 rouvert portes 2008 après fermeture quelques mois pour rénovation beaucoup plus grands musiciens jazz français internationaux joué martial solal wynton marsalis benny golson aldo romano erik truffaz richard galliano henri texier ainsi nombreux jeunes talents </vcard:CATEGORIES>
+    <vcard:NAME>Le Duc des Lombards</vcard:NAME>
+    <vcard:PRODID>485</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/243">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> musée cluny officiel musée national moyen thermes hôtel cluny situé dans arrondissement paris cœur quartier latin dans hôtel particulier xiiie siècle hôtel cluny possède plus importantes collections mondiales objets œuvres époque médiévale thermes cluny sont contigus font également partie </vcard:CATEGORIES>
+    <vcard:NAME>Musée de Cluny</vcard:NAME>
+    <vcard:PRODID>243</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/497">
+    <vcard:CLASS>avenue</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel barrière fouquet paris hôtel luxe situé paris avenue george avenue champs élysées bâtiment inscrit inventaire monuments historiques 1990 seul hôtel luxe parisien encore appartenir groupe français groupe barrière hôtels casinos depuis 1998 doté chambres dont suites restaurants bars établissement membre leading hotels world dirigé geraldine dobey caractéristiques hôtel barrière fouquet paris dont entrée située avenue george mérite toutefois être distingué historique brasserie fouquet dont entrée trouve elle avenue champs elysées selon classement reviewpro hôtels parisiens mieux notés internet publié avril 2013 fouquet barrière établissement obtient meilleure évaluation ligne world travel awards 2013 manifestation internationale voyage tourisme lieu août 2013 antalya turquie également décroché titre meilleur city hôtel europe </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel Fouquet's Barrière</vcard:NAME>
+    <vcard:PRODID>497</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/231">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée montmartre musée situé cortot dans arrondissement paris installé sein ensemble bâtiments comprend hôtel demarne maison </vcard:CATEGORIES>
+    <vcard:NAME>Musée de Montmartre</vcard:NAME>
+    <vcard:PRODID>231</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/461">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour areva anciennement tour fiat jusqu 1995 puis tour framatome gratte ciel bureaux situé dans quartier affaires défense france précisément place jean millier courbevoie construit architectes roger saubot francois jullien depuis début 2013 elle siège social groupe nucléaire areva </vcard:CATEGORIES>
+    <vcard:NAME>Tour Areva</vcard:NAME>
+    <vcard:PRODID>461</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/473">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour super italie tour logements construite architecte maurice novarina assisté architectes jacques giovannoni léger principalement résidentielle situé dans arrondissement paris france </vcard:CATEGORIES>
+    <vcard:NAME>Tour Super-Italie</vcard:NAME>
+    <vcard:PRODID>473</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/409">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES>théâtre bouffes nordfichier paris bouffes nord façade théâtre 2011 résidence peter brook théâtre bouffes nord également graphié bouffes nord salle spectacles située boulevard chapelle dans arrondissement paris site desservi station métro chapelle </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre des Bouffes-du-Nord</vcard:NAME>
+    <vcard:PRODID>409</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/639">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> galerie vivienne passage arrondissement paris longueur pour largeur galerie fait objet inscription titre monuments historiques depuis juillet 1974 façades immeubles sont petits champs banque vivienne site desservi station métro bourse </vcard:CATEGORIES>
+    <vcard:NAME>Galerie Vivienne</vcard:NAME>
+    <vcard:PRODID>639</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/627">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> viaduc arts aujourd ensemble ateliers métiers regroupés dans construction unique paris dans arrondissement était ancien viaduc paris construit 1859 concepteurs émile vuigner albert bassompierre sewrin pour soutenir voie chemin ligne vincennes reliant ancienne gare paris bastille située place bastille vincennes long actuelle avenue daumesnil </vcard:CATEGORIES>
+    <vcard:NAME>Viaduc des Arts</vcard:NAME>
+    <vcard:PRODID>627</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/615">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> bataclan appelait origine grand café chinois théâtre clan salle spectacle parisienne édifiée architecte charles duval 1864 située boulevard voltaire dans arrondissement premier faisait référence clan opérette offenbach avec abandon traits union revenu original bataclan évoquant joyeux vacarme remue ménage établissement fait objet inscription titre monuments historiques depuis mars 1991 lieu attentats novembre 2015 revendiqué état islamique </vcard:CATEGORIES>
+    <vcard:NAME>Bataclan</vcard:NAME>
+    <vcard:PRODID>615</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/603">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES>fondé 1988 implanté dans parisien colline théâtres nationaux avec comédie française théâtre odéon théâtre national chaillot théâtre national opéra comique théâtre national strasbourg consacré écritures théâtrales contemporaines modernes xxie siècles constituées tant textes mise scène colline dirigé depuis 2016 metteur scène wajdi mouawad </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre national de la Colline</vcard:NAME>
+    <vcard:PRODID>603</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/101">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> laffitte anciennement artois voie arrondissement paris elle commence boulevard italiens termine châteaudun elle porte banquier homme politique français jacques laffitte </vcard:CATEGORIES>
+    <vcard:NAME>Rue Laffitte</vcard:NAME>
+    <vcard:PRODID>101</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/113">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> oberkampf paris située dans arrondissement elle traverse part part depuis limite avec ouest jusqu celle avec </vcard:CATEGORIES>
+    <vcard:NAME>Rue Oberkampf</vcard:NAME>
+    <vcard:PRODID>113</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/125">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> boulevard sébastopol boulevard parisien sépare part arrondissements autre part site desservi stations métro châtelet étienne marcel réaumur sébastopol strasbourg saint denis </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard de Sébastopol</vcard:NAME>
+    <vcard:PRODID>125</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/137">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> adolphe mille arrondissement paris france nommée après adolphe auguste mille 1812 1894 inspecteur général ponts chaussées ingénieur ville paris constructeur dépotoir municipal apôtre épuration agricole eaux égout ouverte 1850 était tronçon terminal chemin dépotoir ensuite elle devient impasse dépotoir actuel date 1904 maintenant fait partie quartier composite centré autour parc villette elle trouve abords cité musique immeuble habitation œuvre architecte philippe dubois 1989 collège edgard varèse ouvert dans cette septembre 2005 </vcard:CATEGORIES>
+    <vcard:NAME>Rue Adolphe-Mille</vcard:NAME>
+    <vcard:PRODID>137</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/149">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> alésia paris france parcourt arrondissement ouest toute longueur mètres tracé parallèle boulevards maréchaux </vcard:CATEGORIES>
+    <vcard:NAME>Rue d'Alésia</vcard:NAME>
+    <vcard:PRODID>149</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/379">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> palais berlitz immeuble bureaux parisien construit début années 1930 emplacement pavillon hanovre démonté pour être remonté dans parc sceaux occupe quadrilatère formé boulevard italiens louis grand michodière hanovre arrondissement </vcard:CATEGORIES>
+    <vcard:NAME>Palais Berlitz</vcard:NAME>
+    <vcard:PRODID>379</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/367">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> grande arche fraternité connue sous usage arche défense grande arche monument situé dans quartier affaires défense ouest paris territoire commune puteaux inaugurée 1989 moment bicentenaire révolution construite historique parisien grands travaux françois mitterrand réalisés cours premier mandat président république française </vcard:CATEGORIES>
+    <vcard:NAME>Arche de la Défense</vcard:NAME>
+    <vcard:PRODID>367</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/597">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> mandarin oriental paris hôtel parisien ouvert 2011 reçu titre palace </vcard:CATEGORIES>
+    <vcard:NAME>Mandarin Oriental Paris</vcard:NAME>
+    <vcard:PRODID>597</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/355">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée adam mickiewicz paris musée consacré grand poète romantique polonais adam mickiewicz </vcard:CATEGORIES>
+    <vcard:NAME>Musée Adam-Mickiewicz</vcard:NAME>
+    <vcard:PRODID>355</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/181">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> boulevard rochechouart voie située dans quartier rochechouart quartier clignancourt arrondissement arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard de Rochechouart</vcard:NAME>
+    <vcard:PRODID>181</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/343">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> musée départemental albert kahn situé boulogne billancourt dans hauts seine visant faire connaître valoriser œuvre albert kahn compose galerie présentant sous forme expositions temporaires partie collections archives planète constituées albert kahn entre 1909 1931 photographies couleur plaques autochromes fait plus importante collection monde type mètres soient centaine heures film noir blanc couleur jardins étendus près quatre hectares font partie intégrante collections musée 2015 domaine inscrit partiellement titre monuments historiques </vcard:CATEGORIES>
+    <vcard:NAME>Musée départemental Albert-Kahn</vcard:NAME>
+    <vcard:PRODID>343</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/573">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> hôpital instruction armées bégin hôpital militaire situé avenue paris saint mandé dans marne près paris porte louis jacques bégin 1793 1859 chirurgien militaire empire </vcard:CATEGORIES>
+    <vcard:NAME>Hôpital d'instruction des armées Bégin</vcard:NAME>
+    <vcard:PRODID>573</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/193">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> site desservi stations métro trinité estienne orves peletier havre caumartin chaussée antin lafayette provence voie arrondissements paris elle commence faubourg montmartre termine rome seule courte portion comprise entre havre cette dernière trouve dans arrondissement </vcard:CATEGORIES>
+    <vcard:NAME>Rue de Provence (Paris)</vcard:NAME>
+    <vcard:PRODID>193</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/331">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée mode textile musée parisien situé dans arrondissement fondé 1905 entièrement dédié arts couture haute couture situé rivoli annexe musée arts décoratifs étend deux étages retrace évolution mode vestimentaire européenne xive siècle jours pièces textiles exposées étant fragiles musée présente occasion expositions temporaires ainsi vêtements sont présentés thème expositions sont renouvelés tous mois </vcard:CATEGORIES>
+    <vcard:NAME>Musée de la mode et du textile</vcard:NAME>
+    <vcard:PRODID>331</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/585">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> tunnel tuileries situé sous était origine quai tuileries porte désormais noms quai aimé césaire depuis 2013 quai françois mitterrand depuis 2003 long seine rive droite longueur mètres tunnel sens unique ouest ouvert 1967 fait partie intégrante voie georges pompidou </vcard:CATEGORIES>
+    <vcard:NAME>Tunnel des Tuileries</vcard:NAME>
+    <vcard:PRODID>585</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/561">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> église saint roch église arrondissement paris située saint honoré bâtie entre 1653 1722 plans initiaux jacques mercier longue mètres plan médiéval plus vastes paris édifice classé titre monuments historiques depuis décembre 1914 parvis église théâtre combats durant insurrection royaliste vendémiaire octobre 1795 pillée révolution église récupéré partie patrimoine ainsi nombreuses œuvres provenant autres églises parisiennes toujours activité elle reste connue comme paroisse artistes allusion nombre entre inhumés dont célébré obsèques riche collection œuvres conservée </vcard:CATEGORIES>
+    <vcard:NAME>Église Saint-Roch de Paris</vcard:NAME>
+    <vcard:PRODID>561</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/67">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place panthéon place arrondissement paris étendant devant panthéon rares places paris avec place vendôme paix elle traverse contenir aucune végétation </vcard:CATEGORIES>
+    <vcard:NAME>Place du Panthéon</vcard:NAME>
+    <vcard:PRODID>67</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/79">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> pont notre dame pont situé paris traversant grand bras seine reliant quai gesvres quai corse cité construit 1853 lors transformations haussmanniennes mesure longueur pour largeur cinq arches initiales ayant réduites trois 1912 dont arche centrale métallique occupe emplacement tout premiers ponts capitale grand pont remplacé planches milbray puis deux répliques pont notre dame bois autre pierre </vcard:CATEGORIES>
+    <vcard:NAME>Pont Notre-Dame</vcard:NAME>
+    <vcard:PRODID>79</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/43">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place saint sulpice place arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Place Saint-Sulpice</vcard:NAME>
+    <vcard:PRODID>43</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/517">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel bristol paris palace situé faubourg saint honoré dans arrondissement paris considéré comme plus grands plus prestigieux palaces paris france </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel Le Bristol Paris</vcard:NAME>
+    <vcard:PRODID>517</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/529">
+    <vcard:CLASS>gare</vcard:CLASS>
+    <vcard:CATEGORIES> gare nogent marne gare ferroviaire française ligne paris bastille marles brie dite aussi ligne vincennes située dans commune nogent marne département marne région france ouverte 1859 compagnie chemins elle fermée trafic voyageurs société nationale chemins français sncf décembre 1969 elle alors transférée même jour ratp après reconstruction lors mise service premier maillon ligne </vcard:CATEGORIES>
+    <vcard:NAME>Gare de Nogent-sur-Marne</vcard:NAME>
+    <vcard:PRODID>529</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/55">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> boulevard montparnasse boulevard montparnasse boulevard montparnasse sont abus langage boulevard paris situe limite arrondissements paris relie place léon paul fargue située station métro duroc place camille jullian située gare port royal passe pied tour montparnasse place juin 1940 </vcard:CATEGORIES>
+    <vcard:NAME>Boulevard du Montparnasse</vcard:NAME>
+    <vcard:PRODID>55</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/31">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place colonel fabien située cheval entre arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Place du Colonel-Fabien (Paris)</vcard:NAME>
+    <vcard:PRODID>31</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/505">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> sainte chapelle dite aussi sainte chapelle palais chapelle palatiale édifiée cité paris demande saint louis afin abriter couronne épines morceau vraie croix ainsi diverses autres reliques passion avait acquises partir 1239 elle première construite saintes chapelles conçue comme vaste châsse presque entièrement vitrée distingue élégance hardiesse architecture manifeste dans élévation importante suppression quasi totale murs niveau fenêtres chapelle haute bien édifiée dans bref délai dépassant sept relevé défauts construction décoration négligée elle fait notamment appel sculpture peinture vitrail sont immenses vitraux historiés origine font aujourd richesse sainte chapelle elle privée reliques révolution française perdu ainsi principale raison être desservie collège chanoines jusqu 1787 sainte chapelle fermée culte vers 1790 puis vidée tout contenu détournée siège club sainte chapelle 1797 elle transformée dépôt archives palais justice expansion celui menace existence même sauvetage décidé 1836 sous pression opinion publique restauration lancée plus tard dure vingt tant édifice emblématique style gothique rayonnant sainte chapelle classée monument historique liste 1862 avant achèvement restauration plus réussies temps ceci empêche raison piètre état 1836 monument voit aujourd essentiellement monument xixe siècle avec conciergerie sainte chapelle constitue vestiges palais cité étendait site couvrant actuel palais justice elle gérée centre monuments nationaux auquel elle attribuée titre dotation arrêté avril 2008 desservi station métro cité monument accueilli 2011 plus visiteurs faisant troisième monument géré centre monuments nationaux plus visité après mont saint michel triomphe étoile </vcard:CATEGORIES>
+    <vcard:NAME>Sainte-Chapelle</vcard:NAME>
+    <vcard:PRODID>505</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/269">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> musée sculpture plein lieu exposition œuvres sculpteurs seconde moitié siècle elles sont présentées libres accès dans jardin tino rossi port saint bernard dans arrondissement paris loin jardin plantes surface approchant deux hectares arborée fleurie </vcard:CATEGORIES>
+    <vcard:NAME>Musée de la sculpture en plein air</vcard:NAME>
+    <vcard:PRODID>269</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/487">
+    <vcard:CLASS>gare</vcard:CLASS>
+    <vcard:CATEGORIES> gare paris bercy bourgogne pays auvergne anciennement gare bercy jusqu septembre 2016 gare ferroviaire française société nationale chemins français sncf située dans quartier bercy dans arrondissement paris elle constitue annexe paris gare lyon dont elle dépend administrativement dessert partie même réseau </vcard:CATEGORIES>
+    <vcard:NAME>Gare de Paris-Bercy-Bourgogne-Pays d'Auvergne</vcard:NAME>
+    <vcard:PRODID>487</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/257">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> galerie georges philippe nathalie vallois importante galerie contemporain nouveau réalisme située seine dans quartier saint germain près paris </vcard:CATEGORIES>
+    <vcard:NAME>Galerie Georges-Philippe et Nathalie Vallois</vcard:NAME>
+    <vcard:PRODID>257</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/499">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> temple marais église située dans arrondissement paris dans quartier marais saint antoine angle castex depuis 1802 cette église affectée culte réformé elle rattachée église protestante unie france </vcard:CATEGORIES>
+    <vcard:NAME>Temple du Marais</vcard:NAME>
+    <vcard:PRODID>499</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/245">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> institut suédois anciennement appelé centre culturel suédois situé paris dans hôtel marle situé dans quartier marais payenne depuis 1971 </vcard:CATEGORIES>
+    <vcard:NAME>Centre culturel suédois</vcard:NAME>
+    <vcard:PRODID>245</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/233">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée gustave moreau musée national situé rochefoucauld paris dans ancien atelier peintre symboliste gustave moreau légué artiste état français 1897 pour soit conservé présenté œuvre musée conserve total environ œuvres essentiel fonds atelier exposé soit près peintures cartons aquarelles plus dessins calques sculptures cire ainsi quelques œuvres autres artistes portrait gustave moreau edgar degas autre gustave ricard portrait pauline moreau mère peintre jules elie delaunay nature morte peintre flamand après restauration identique appartement peintre ouvert public 1991 cabinet réception restauré 2003 également visitable </vcard:CATEGORIES>
+    <vcard:NAME>Musée Gustave-Moreau</vcard:NAME>
+    <vcard:PRODID>233</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/463">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour total coupole gratte ciel bureaux situé dans quartier affaires défense dans ville courbevoie france elle abrite partie bureaux société pétrolière total agissait auparavant anciens bureaux aquitaine </vcard:CATEGORIES>
+    <vcard:NAME>Tour Total (Coupole)</vcard:NAME>
+    <vcard:PRODID>463</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/475">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour égée gratte ciel bureaux situé dans quartier affaires défense france précisément courbevoie dans quartier faubourg arche </vcard:CATEGORIES>
+    <vcard:NAME>Tour Égée</vcard:NAME>
+    <vcard:PRODID>475</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/221">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES>yvon lambert février 1936 vence galeriste marchand contemporain français travaillant paris avignon principaux directeurs galerie contemporain france </vcard:CATEGORIES>
+    <vcard:NAME>Yvon Lambert (galeriste)</vcard:NAME>
+    <vcard:PRODID>221</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/451">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> stade france stylisé stadefrance plus grand stade football français avec places configuration football rugby situe dans quartier plaine saint denis saint denis dans proche banlieue nord paris œuvre quatre architectes michel macary aymeric zublena michel regembal claude costantini architecture stade inspire worldport compagnie aérienne américaine situe aéroport international york john kennedy inauguré janvier 1998 jacques chirac président république lors match football france espagne construit pour besoins coupe monde football france afin remplacer parc princes jugé trop petit également conçu pour accueillir différents événements sportifs football rugby athlétisme courses automobiles peut également abriter concerts grands spectacles animations rêve neige plage stade capacité évolue entre athlétisme places football rugby concerts spectacles grâce tribunes basses rétractables jour seul stade monde avoir accueilli finale coupe monde football finale coupe monde rugby accueille également juillet 2016 finale championnat europe football soir novembre 2015 lors match football amical france allemagne trois explosions dans périmètre stade font quatre morts agit actes terroristes faisant partie série attentats lieu paris durant cette même soirée </vcard:CATEGORIES>
+    <vcard:NAME>Stade de France</vcard:NAME>
+    <vcard:PRODID>451</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/617">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre ambigu comique ancienne salle spectacle parisienne fondée 1769 boulevard temple nicolas médard audinot </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre de l'Ambigu-Comique</vcard:NAME>
+    <vcard:PRODID>617</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/605">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> fort charenton ouvrage militaire défensif construit 1842 commune maisons alfort faisant partie dispositif protection paris décidé adolphe thiers </vcard:CATEGORIES>
+    <vcard:NAME>Fort de Charenton</vcard:NAME>
+    <vcard:PRODID>605</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/629">
+    <vcard:CLASS>église</vcard:CLASS>
+    <vcard:CATEGORIES> pour articles homonymes voir église saint françois assise église saint françois molitor église paroissiale catholique quartier auteuil molitor paris dans arrondissement elle remplacé chapelle capucins avaient construite 1941 </vcard:CATEGORIES>
+    <vcard:NAME>Église Saint-François-de-Molitor</vcard:NAME>
+    <vcard:PRODID>629</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/249">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée cernuschi musée parisien consacré arts asiatiques plus spécifiquement ceux extrême orient chine japon corée vietnam second musée consacré arts asiatiques france cinquième consacré chinois europe </vcard:CATEGORIES>
+    <vcard:NAME>Musée Cernuschi</vcard:NAME>
+    <vcard:PRODID>249</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/103">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> cité fleurs site immobilier desservi voie privée fermée circulation publique dans arrondissement paris situé dans quartier épinettes deux conventions fondatrices très précises permis conserver authenticité pittoresque village dans ville composé maisons très diverses dans leur architecture particulièrement fleuries </vcard:CATEGORIES>
+    <vcard:NAME>Cité des Fleurs</vcard:NAME>
+    <vcard:PRODID>103</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/115">
+    <vcard:CLASS>avenue</vcard:CLASS>
+    <vcard:CATEGORIES> pierre charron voie arrondissement paris elle commence avenue george termine avenue champs élysées </vcard:CATEGORIES>
+    <vcard:NAME>Rue Pierre-Charron</vcard:NAME>
+    <vcard:PRODID>115</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/127">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> avenue kléber artère arrondissement paris partant place charles gaulle arrivant place trocadéro onze novembre site desservi stations métro charles gaulle étoile kléber boissière trocadéro </vcard:CATEGORIES>
+    <vcard:NAME>Avenue Kléber</vcard:NAME>
+    <vcard:PRODID>127</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/369">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> tour jean sans peur tour jean sans peur tour fortification édifiée paris siècle jean bourgogne jean sans peur elle constitue dernier vestige hôtel ducs bourgogne située étienne marcel dans arrondissement elle fait aujourd partie cour école élémentaire site desservi station métro étienne marcel </vcard:CATEGORIES>
+    <vcard:NAME>Tour Jean-sans-Peur</vcard:NAME>
+    <vcard:PRODID>369</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/599">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES>théâtre montparnassefichier théâtre montparnasse gaîté théâtre avril 2016 géolocalisation carte paris géolocalisation carte france théâtre montparnasse théâtre parisien situé gaîté dans arrondissement </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre Montparnasse</vcard:NAME>
+    <vcard:PRODID>599</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/357">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> musée matériaux centre recherche monuments historiques hébergé école chaillot situé dans palais chaillot dans arrondissement paris cette mathériauthèque dépend centre recherche monuments historiques transféré médiathèque architecture patrimoine ouverte avril 2014 charenton pont cette collection ainsi celle maquettes centre recherche plus librement accessible public mais sert support pédagogique cours dispensés centre hautes études école chaillot </vcard:CATEGORIES>
+    <vcard:NAME>Musée des Matériaux du Centre de Recherche sur les Monuments Historiques</vcard:NAME>
+    <vcard:PRODID>357</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/345">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> cité musique philharmonie paris anciennement cité musique premier réalisé deux bâtiments pôle musical philharmonie paris établissement public caractère industriel commercial epic placé sous tutelle ministère culture conçue architecte christian portzamparc inaugurée décembre 1995 elle regroupe ensemble équipements services dédiés musique située place fontaine lions porte pantin dans quartier pont flandres arrondissement paris bordure parc villette intermédiaire filiale cité pleyel philharmonie paris gère salle pleyel laquelle substitué grande salle concert baptisée philharmonie conçue jean nouvel inaugurée janvier 2015 proximité cité musique laquelle depuis cette date pris philharmonie philharmonie surface comprend amphithéâtre places salle concert entièrement modulable pouvant accueillir spectateurs musée musique contenant importante collection instruments musique classique datés pour essentiel entre xvie xxie siècles importante médiathèque musicale espaces documentation professionnels salles expositions ateliers pédagogiques </vcard:CATEGORIES>
+    <vcard:NAME>Cité de la musique</vcard:NAME>
+    <vcard:PRODID>345</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/575">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> studio ursulines salle cinéma arrondissement paris située ursulines </vcard:CATEGORIES>
+    <vcard:NAME>Studio des Ursulines</vcard:NAME>
+    <vcard:PRODID>575</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/333">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée barreau paris musée appartenant ordre avocats paris retrace histoire avocats barreau paris france depuis xviie siècle jusqu années 1960 collections concernent histoire avocats grands procès marqué histoire judiciaire française situé jour dans arrondissement paris collections sont constituées principalement dons legs </vcard:CATEGORIES>
+    <vcard:NAME>Musée du Barreau de Paris</vcard:NAME>
+    <vcard:PRODID>333</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/587">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> château réghat situé commune maisons alfort dans marne château fait objet inscription titre monuments historiques depuis octobre 1979 </vcard:CATEGORIES>
+    <vcard:NAME>Château de Réghat</vcard:NAME>
+    <vcard:PRODID>587</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/321">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée contrefaçon créé 1951 union fabricants unifab dans hôtel particulier situé faisanderie paris monument fait objet inscription titre monuments historiques depuis août 1976 didactique permet visiteur informer étendue contrefaçon retentissement économie mondiale prendre conscience importance protection propriété industrielle connaître sanctions prévues unique genre présente éventail très diversifié produits contrefaisants modèles authentiques afin visiteur apprenne différencier bronzes rodin parfums tabac dictionnaires logiciels jouets outillage électroménager produits entretien textile maroquinerie vaisselle pièces détachées automobile stylos trouve aussi constitue sans doute plus ancien exemple contrefaçon bouchons amphores datant antiquité gallo romaine acheter contrefaçons étant interdit même pour musée plupart objets époque contemporaine proviennent saisies douanes </vcard:CATEGORIES>
+    <vcard:NAME>Musée de la Contrefaçon</vcard:NAME>
+    <vcard:PRODID>321</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/551">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour first également appelée tour cb31 gratte ciel bureaux situé dans quartier affaires défense près paris france précisément courbevoie dans quartier défense construite initialement 1974 tour transformée 2007 2011 transformation porté hauteur mètres fait plus haut gratte ciel france devant tour montparnasse plus élevé europe </vcard:CATEGORIES>
+    <vcard:NAME>Tour First</vcard:NAME>
+    <vcard:PRODID>551</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/171">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> nicolas appert arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue Nicolas-Appert</vcard:NAME>
+    <vcard:PRODID>171</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/563">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> hôtel perrinet jars hôtel particulier situé faubourg saint honoré dans arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Hôtel Perrinet de Jars</vcard:NAME>
+    <vcard:PRODID>563</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/183">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> saint jacques probablement plus ancienne paris tracé inchangé depuis moins siècle elle située rive gauche seine dans arrondissement elle commence galande termine boulevard port royal elle traverse quartier sorbonne celui grâce </vcard:CATEGORIES>
+    <vcard:NAME>Rue Saint-Jacques (Paris)</vcard:NAME>
+    <vcard:PRODID>183</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/195">
+    <vcard:CLASS>hôtel</vcard:CLASS>
+    <vcard:CATEGORIES> victoire trouve paris dans arrondissement initialement appelée chantereine quartier était marécageux avait beaucoup grenouilles rainettes rana signifiant grenouille latin coassaient elle prend victoire nivôse décembre 1797 1816 honneur campagne italie général bonaparte possédait plus hôtel elle changea 1816 lors restauration puis retrouva définitif 1833 jusqu destruction 1826 hôtel thellusson possédait entrée cette site desservi stations métro trinité estienne orves notre dame lorette peletier </vcard:CATEGORIES>
+    <vcard:NAME>Rue de la Victoire (Paris)</vcard:NAME>
+    <vcard:PRODID>195</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/519">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> maisons jaoul construites 1953 1955 terrain mille mètres carrés commune neuilly seine hauts seine france architecte charles édouard jeanneret gris corbusier pour andré jaoul fils michel </vcard:CATEGORIES>
+    <vcard:NAME>Maisons Jaoul</vcard:NAME>
+    <vcard:PRODID>519</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/89">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> avenue foch avenue arrondissement paris commence place charles gaulle anciennement nommée place étoile termine porte dauphine place maréchal lattre tassigny douze avenues étoile plus prestigieuses adresses parisiennes </vcard:CATEGORIES>
+    <vcard:NAME>Avenue Foch (Paris)</vcard:NAME>
+    <vcard:PRODID>89</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/65">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> place novembre 1942 voie située dans quartier saint vincent paul quartier porte saint denis arrondissement paris intersection fayette chabrol </vcard:CATEGORIES>
+    <vcard:NAME>Place du 8-Novembre-1942</vcard:NAME>
+    <vcard:PRODID>65</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/507">
+    <vcard:CLASS>article</vcard:CLASS>
+    <vcard:CATEGORIES>45xce modèle pertinent cliquez pour voir autres article cite suffisamment sources juin 2009 vous disposez ouvrages articles référence vous connaissez sites qualité traitant thème abordé merci compléter article donnant références utiles vérifiabilité liant section notes références modifier article comment ajouter sources harry york célèbre situé daunou paris entre avenue opéra paix </vcard:CATEGORIES>
+    <vcard:NAME>Harry's New York Bar</vcard:NAME>
+    <vcard:PRODID>507</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/77">
+    <vcard:CLASS>boulevard</vcard:CLASS>
+    <vcard:CATEGORIES> colonne médicis colonne accolée bourse commerce paris édifice dans jardins halles site desservi station métro louvre rivoli métro paris ligne métro paris halles métro paris ligne métro paris</vcard:CATEGORIES>
+    <vcard:NAME>Colonne Médicis</vcard:NAME>
+    <vcard:PRODID>77</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/41">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> place concorde avec hectares nécessaire plus grande place paris aurait choisi directoire pour marquer réconciliation français après excès terreur </vcard:CATEGORIES>
+    <vcard:NAME>Place de la Concorde</vcard:NAME>
+    <vcard:PRODID>41</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/53">
+    <vcard:CLASS>place</vcard:CLASS>
+    <vcard:CATEGORIES> site desservi station métro blanche place blanche place paris proche célèbre cabaret parisien moulin rouge dont moulin domine place place blanche tire situation emplacement ancienne barrière blanche précédemment appelée barrière croix blanche </vcard:CATEGORIES>
+    <vcard:NAME>Place Blanche</vcard:NAME>
+    <vcard:PRODID>53</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/139">
+    <vcard:CLASS>voie</vcard:CLASS>
+    <vcard:CATEGORIES> saint séverin voie arrondissement paris </vcard:CATEGORIES>
+    <vcard:NAME>Rue Saint-Séverin</vcard:NAME>
+    <vcard:PRODID>139</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/291">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> cité architecture patrimoine installée dans aile paris palais chaillot place trocadéro avec plus grand centre architecture monde </vcard:CATEGORIES>
+    <vcard:NAME>Cité de l'architecture et du patrimoine</vcard:NAME>
+    <vcard:PRODID>291</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/259">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée contemporain marne généralement abrégé musée contemporain situé vitry seine dans marne france inauguré novembre 2005 premier musée contemporain installé banlieue parisienne bénéficie label musée france fait partie réseau médiation culturelle tram </vcard:CATEGORIES>
+    <vcard:NAME>Musée d'art contemporain du Val-de-Marne</vcard:NAME>
+    <vcard:PRODID>259</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/489">
+    <vcard:CLASS>montmartre</vcard:CLASS>
+    <vcard:CATEGORIES> bouillon chartier restaurant paris fondé 1896 situé faubourg montmartre dans arrondissement classé monument historique 1989 </vcard:CATEGORIES>
+    <vcard:NAME>Bouillon Chartier</vcard:NAME>
+    <vcard:PRODID>489</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/247">
+    <vcard:CLASS>musée</vcard:CLASS>
+    <vcard:CATEGORIES> musée hébert musée national créé 1978 grâce générosité rené patris uckermann fils adoptif gabrielle hébert </vcard:CATEGORIES>
+    <vcard:NAME>Musée Hébert (Paris)</vcard:NAME>
+    <vcard:PRODID>247</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/235">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> palais découverte musée centre culturel scientifique parisien installé dans aile ouest grand palais dans arrondissement </vcard:CATEGORIES>
+    <vcard:NAME>Palais de la découverte</vcard:NAME>
+    <vcard:PRODID>235</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/465">
+    <vcard:CLASS>gare</vcard:CLASS>
+    <vcard:CATEGORIES> gare pont cardinet gare ferroviaire française située dans arrondissement paris gare société nationale chemins français sncf desservie trains ligne transilien réseau paris saint lazare elle situe distance gare paris saint lazare seule gare paris intra muros service desservie métro trains grandes lignes 2019 elle devrait être correspondance avec ligne métro station pont cardinet </vcard:CATEGORIES>
+    <vcard:NAME>Gare de Pont-Cardinet</vcard:NAME>
+    <vcard:PRODID>465</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/223">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> centre national culture georges pompidou cnac communément appelé centre georges pompidou centre pompidou centre beaubourg familièrement beaubourg établissement polyculturel situé dans quartier saint merri dans arrondissement paris entre quartier halles ouest marais emploie millier personnes budget annuel cent millions euros dont millions subventions état centre volonté georges pompidou alors président république française créer cœur paris institution culturelle originale entièrement vouée création moderne contemporaine arts plastiques voisineraient avec livres design musique cinéma inauguré janvier 1977 centre pompidou accueilli 2013 plus millions visiteurs sein musée national moderne centre création industrielle mnam conserve trois plus importantes collections moderne contemporain monde avec celle museum modern york tate modern londres première europe avec œuvres artistes janvier 2014 abrite également importantes galeries expositions temporaires salles spectacles cinéma première bibliothèque publique lecture europe part autre piazza deux bâtiments annexes accueillent ircam atelier brancusi depuis 2010 ville metz dotée antenne décentralisée centre centre pompidou metz entre octobre 2011 septembre 2013 centre pompidou lance annexe mobile déplace entre villes chaumont cambrai boulogne libourne havre aubagne mars 2015 centre pompidou málaga premier centre pompidou provisoire situé étranger sera accueilli pour cinq renouvelables cubo málaga andalousie seront présentées œuvres musée contre montant million euros centre pompidou associée région bruxelles capitale pour créer dans capitale belge bruxelles 2020 musée consacré moderne contemporain ainsi architecture moderne contemporaine espace occupera vaste lumineux bâtiment déco quatre étages abrite depuis années 1930 garage citroën racheté région bruxelloise dispose pôle culturel emblématique dédié contemporain pour millions euros constructeur automobile français centre pompidou mettra partie collections environ œuvres dont seuls sont montrées public disposition futur musée musée encore fixé mais centre pompidou devrait figurer dans future appellation </vcard:CATEGORIES>
+    <vcard:NAME>Centre national d'art et de culture Georges-Pompidou</vcard:NAME>
+    <vcard:PRODID>223</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/477">
+    <vcard:CLASS>tour</vcard:CLASS>
+    <vcard:CATEGORIES> tour adria aussi connue sous tour technip société locataire gratte ciel bureaux situé dans quartier affaires défense france précisément courbevoie dans quartier faubourg arche </vcard:CATEGORIES>
+    <vcard:NAME>Tour Adria</vcard:NAME>
+    <vcard:PRODID>477</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/211">
+    <vcard:CLASS>centre</vcard:CLASS>
+    <vcard:CATEGORIES> musée louvre musée antiquités situé centre paris dans palais louvre plus grands musées monde surface exposition collections comprennent près œuvres celles présentent occidental moyen 1848 ceux civilisations antiques précédé influencé orientales égyptienne grecque étrusque romaine arts premiers chrétiens islam situé dans arrondissement paris entre rive droite seine rivoli musée signale pyramide verre hall accueil érigée 1989 dans cour napoléon devenue emblématique tandis statue équestre louis constitue point départ historique parisien avec environ neuf millions visiteurs annuels depuis 2011 louvre musée plus visité monde site culturel payant plus visité france parmi pièces plus célèbres figurent joconde vénus milo scribe accroupi victoire samothrace code hammurabi louvre possède longue histoire conservation artistique historique depuis ancien régime jusqu jours suite départ louis pour château versailles xviie siècle entrepose partie collections royales tableaux sculptures antiques après avoir durant siècle hébergé plusieurs académies dont celle peinture sculpture ainsi divers artistes logés ancien palais royal véritablement transformé sous révolution muséum central arts république ouvre 1793 exposant environ œuvres essentiellement issues collections royales confisquées chez nobles émigrés dans églises suite collections cesseront enrichir prises guerre acquisitions mécénats legs donations découvertes archéologiques </vcard:CATEGORIES>
+    <vcard:NAME>Musée du Louvre</vcard:NAME>
+    <vcard:PRODID>211</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/441">
+    <vcard:CLASS>théâtre</vcard:CLASS>
+    <vcard:CATEGORIES> théâtre capucines ancienne salle théâtre parisienne située boulevard capucines inaugurée 1898 fermée juin 1973 </vcard:CATEGORIES>
+    <vcard:NAME>Théâtre des Capucines</vcard:NAME>
+    <vcard:PRODID>441</vcard:PRODID>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://Monument/453">
+    <vcard:CLASS>parc</vcard:CLASS>
+    <vcard:CATEGORIES> accorhotels arena anciennement appelée palais omnisports paris bercy popb plus récemment bercy arena salle polyvalente modulable située boulevard bercy dans quartier bercy dans arrondissement paris elle fait objet importants travaux rénovation 2014 2015 encadrée ministère économie finances nord ouest parc bercy elle située bord rive droite seine hauteur pont bercy fait face bibliothèque françois mitterrand placée quant elle rive gauche site desservi station métro bercy </vcard:CATEGORIES>
+    <vcard:NAME>AccorHotels Arena</vcard:NAME>
+    <vcard:PRODID>453</vcard:PRODID>
+  </rdf:Description>
+</rdf:RDF>
